@@ -1,0 +1,148 @@
+=== SINGAPORE-LONDON CONVERGENCE ANALYSIS ===
+
+Loaded 2000 data: 315 cities
+Loaded 2012 data: 525 cities in GNC, 525 cities in SVM
+Loaded 2016 data: 707 cities in GNC, 707 cities in SVM
+Loaded 2018 data: 708 cities in GNC, 708 cities in SVM
+Loaded 2020 data: 707 cities in GNC, 707 cities in SVM
+
+1. BOOTSTRAP CONVERGENCE ANALYSIS
+Mean Convergence: 0.687
+95% CI: [0.654, 0.723]
+
+Year-by-year convergence:
+  2000: 0.645 (40891 / 63354)
+  2012: 0.673 (83064 / 123464)
+  2016: 0.754 (85654 / 113607)
+  2018: 0.709 (72652 / 102540)
+  2020: 0.654 (74080 / 113344)
+
+2. SECTORAL CONVERGENCE ANALYSIS
+
+2000 Sectoral Convergence:
+  accountancy: 0.600 (S:6, L:10, Firms: 3/18)
+  advertising: 0.654 (S:17, L:26, Firms: 7/15)
+  banking: 0.778 (S:14, L:18, Firms: 5/23)
+  insurance: 0.471 (S:8, L:17, Firms: 4/11)
+  law: 0.267 (S:4, L:15, Firms: 4/16)
+  management: 0.923 (S:12, L:13, Firms: 5/17)
+
+2012 Sectoral Convergence:
+  accountancy: 0.608 (S:62, L:102, Firms: 23/25)
+  advertising: 0.825 (S:66, L:80, Firms: 25/25)
+  banking: 0.773 (S:167, L:216, Firms: 75/75)
+  law: 0.377 (S:40, L:106, Firms: 25/25)
+  management: 0.345 (S:20, L:58, Firms: 25/25)
+
+2016 Sectoral Convergence:
+  accountancy: 0.679 (S:74, L:109, Firms: 25/25)
+  advertising: 0.816 (S:62, L:76, Firms: 24/25)
+  banking: 0.781 (S:150, L:192, Firms: 73/75)
+  law: 0.430 (S:43, L:100, Firms: 25/25)
+  management: 0.641 (S:25, L:39, Firms: 23/25)
+
+2018 Sectoral Convergence:
+  accountancy: 0.629 (S:56, L:89, Firms: 25/25)
+  advertising: 1.082 (S:66, L:61, Firms: 23/25)
+  banking: 0.767 (S:138, L:180, Firms: 74/75)
+  law: 0.457 (S:43, L:94, Firms: 25/25)
+  management: 0.622 (S:23, L:37, Firms: 22/25)
+
+2020 Sectoral Convergence:
+  accountancy: 0.505 (S:48, L:95, Firms: 25/25)
+  advertising: 0.740 (S:54, L:73, Firms: 25/25)
+  banking: 0.814 (S:158, L:194, Firms: 75/75)
+  law: 0.415 (S:39, L:94, Firms: 24/25)
+  management: 0.607 (S:34, L:56, Firms: 25/25)
+
+3. GATEWAY CITY CHARACTERISTICS
+
+2012:
+  Singapore - Connectivity: 83064, Firms: 132, Efficiency: 629.3
+  London - Connectivity: 123464, Firms: 151, Efficiency: 817.6
+
+2016:
+  Singapore - Connectivity: 85654, Firms: 128, Efficiency: 669.2
+  London - Connectivity: 113607, Firms: 150, Efficiency: 757.4
+
+2018:
+  Singapore - Connectivity: 72652, Firms: 127, Efficiency: 572.1
+  London - Connectivity: 102540, Firms: 147, Efficiency: 697.6
+
+2020:
+  Singapore - Connectivity: 74080, Firms: 131, Efficiency: 565.5
+  London - Connectivity: 113344, Firms: 156, Efficiency: 726.6
+
+
+4. CRISIS RESILIENCE ANALYSIS
+
+Singapore:
+  Financial Crisis (2000-2012): 1.031
+  COVID-19 (2018-2020): 0.020
+
+London:
+  Financial Crisis (2000-2012): 0.949
+  COVID-19 (2018-2020): 0.105
+
+5. NETWORK CENTRALITY EVOLUTION
+
+Betweenness Centrality:
+  2000: Singapore=0.0000, London=0.0000
+  2012: Singapore=0.0000, London=0.0010
+  2016: Singapore=0.0001, London=0.0056
+  2018: Singapore=0.0001, London=0.0013
+  2020: Singapore=0.0003, London=0.0001
+
+
+6. STATISTICAL SIGNIFICANCE
+Convergence Trend Slope: 0.0052
+P-value: 0.793
+
+Loaded 2000 data: 315 cities
+Loaded 2012 data: 525 cities in GNC, 525 cities in SVM
+Loaded 2016 data: 707 cities in GNC, 707 cities in SVM
+Loaded 2018 data: 708 cities in GNC, 708 cities in SVM
+Loaded 2020 data: 707 cities in GNC, 707 cities in SVM
+
+=== FIRM COVERAGE ANALYSIS ===
+
+2000 Firm Coverage:
+  accountancy: 3/18 (16.7%)
+  advertising: 7/15 (46.7%)
+  banking: 5/23 (21.7%)
+  insurance: 4/11 (36.4%)
+  law: 4/16 (25.0%)
+  management: 5/17 (29.4%)
+  OVERALL: 28/100 (28.0%)
+
+2012 Firm Coverage:
+  accountancy: 23/25 (92.0%)
+  advertising: 25/25 (100.0%)
+  banking: 75/75 (100.0%)
+  law: 25/25 (100.0%)
+  management: 25/25 (100.0%)
+  OVERALL: 173/175 (98.9%)
+
+2016 Firm Coverage:
+  accountancy: 25/25 (100.0%)
+  advertising: 24/25 (96.0%)
+  banking: 73/75 (97.3%)
+  law: 25/25 (100.0%)
+  management: 23/25 (92.0%)
+  OVERALL: 170/175 (97.1%)
+
+2018 Firm Coverage:
+  accountancy: 25/25 (100.0%)
+  advertising: 23/25 (92.0%)
+  banking: 74/75 (98.7%)
+  law: 25/25 (100.0%)
+  management: 22/25 (88.0%)
+  OVERALL: 169/175 (96.6%)
+
+2020 Firm Coverage:
+  accountancy: 25/25 (100.0%)
+  advertising: 25/25 (100.0%)
+  banking: 75/75 (100.0%)
+  law: 24/25 (96.0%)
+  management: 25/25 (100.0%)
+  OVERALL: 174/175 (99.4%)
