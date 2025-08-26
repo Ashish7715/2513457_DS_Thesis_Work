@@ -1,0 +1,80 @@
+================================================================================
+CRITICAL METRICS ANALYSIS
+================================================================================
+
+=== SECTORAL GROWTH DIFFERENTIAL: Singapore vs London ===
+
+Sectoral Growth Differential (Singapore - London):
+--------------------------------------------------------------------------------
+Sector               Singapore Growth % London Growth %    Differential   
+--------------------------------------------------------------------------------
+Insurance                       -10.65%            -13.57%           2.93%
+Accountancy                       1.98%              1.45%           0.53%
+Advertising                       1.01%              0.76%           0.25%
+Banking                           6.68%              6.62%           0.06%
+Law                               0.63%              1.76%          -1.13%
+Management                        1.89%              3.91%          -2.02%
+
+--------------------------------------------------------------------------------
+
+=== CROSS-SECTOR CORRELATION ANALYSIS: Singapore ===
+
+Cross-Sector Correlation Matrix for Singapore:
+------------------------------------------------------------
+             Accountancy  Advertising  Banking  Insurance    Law  Management
+Accountancy        1.000        0.911    0.858     -0.915  0.709      -0.396
+Advertising        0.911        1.000    0.797     -0.821  0.527      -0.695
+Banking            0.858        0.797    1.000     -0.983  0.644      -0.154
+Insurance         -0.915       -0.821   -0.983      1.000 -0.760       0.185
+Law                0.709        0.527    0.644     -0.760  1.000      -0.066
+Management        -0.396       -0.695   -0.154      0.185 -0.066       1.000
+
+Strongest Cross-Sector Correlations:
+------------------------------------------------------------
+Sector 1             Sector 2             Correlation    
+------------------------------------------------------------
+Banking              Insurance                    -0.983
+Accountancy          Insurance                    -0.915
+Accountancy          Advertising                   0.911
+Accountancy          Banking                       0.858
+Advertising          Insurance                    -0.821
+
+--------------------------------------------------------------------------------
+
+=== FIRM RETENTION RATE ANALYSIS ===
+
+Firm Retention Rates:
+----------------------------------------------------------------------------------------------------
+Period          Singapore                      London                        
+----------------------------------------------------------------------------------------------------
+2000-2012       16.9% (15/89)                  16.2% (16/99)                 
+2012-2016       51.1% (68/133)                 48.7% (74/152)                
+2016-2018       68.2% (88/129)                 67.5% (102/151)               
+2018-2020       66.4% (85/128)                 64.9% (96/148)                
+----------------------------------------------------------------------------------------------------
+Average         50.7%                          49.3%                         
+
+Detailed Analysis for 2018-2020:
+
+Singapore:
+  Lost firms (43): Bank of Montreal, Strategy&, part of the PwC network, Deutsche Bank, Young & Rubicam Group, Skadden, Arps, Slate, Meagher & Flom
+  New firms (47): Gibson, Dunn & Crutcher, Deloitte Digital, BlueFocus(China), PwC Digital Services, Omnicom Precision Marketing Group
+
+London:
+  Lost firms (52): Bank of Montreal, Strategy&, part of the PwC network, Deutsche Bank, Young & Rubicam Group, Cleary, Gottlieb Steen & Hamilton
+  New firms (61): Gibson, Dunn & Crutcher, FCB (Foote, Cone & Belding), Deloitte Digital, BlueFocus(China), PwC Digital Services
+
+================================================================================
+KEY INSIGHTS FROM CRITICAL METRICS
+================================================================================
+
+1. Sectoral Growth Differential:
+   - Singapore outperforms London in 4/6 sectors
+   - Strongest advantage in Insurance: +2.9%
+
+2. Cross-Sector Synergies in Singapore:
+   - Strongest synergy: Accountancy & Advertising (r=0.911)
+
+3. Firm Retention Comparison:
+   - Singapore average retention: 50.7%
+   - London average retention: 49.3%

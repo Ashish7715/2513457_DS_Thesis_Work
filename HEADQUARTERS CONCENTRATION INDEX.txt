@@ -1,0 +1,57 @@
+1. HEADQUARTERS CONCENTRATION INDEX (HCI)
+--------------------------------------------------
+
+2020 HCI by Sector:
+Banking         Singapore:   6.8%  London:   9.8%
+Insurance       Singapore:   0.0%  London:  50.0%
+Accountancy     Singapore:   0.0%  London:  48.5%
+Law             Singapore:   0.0%  London:  38.9%
+
+
+2. SERVICE VALUE INTENSITY (SVI)
+--------------------------------------------------
+
+2020 SVI by Sector:
+Accountancy     Singapore:  2.31  London:  3.88  Diff: -1.57
+Advertising     Singapore:  2.59  London:  3.35  Diff: -0.76
+Banking         Singapore:  3.02  London:  2.96  Diff: +0.06
+Insurance       Singapore:  2.00  London:  3.50  Diff: -1.50
+Law             Singapore:  2.46  London:  4.11  Diff: -1.65
+Management      Singapore:  2.00  London:  2.55  Diff: -0.55
+
+
+3. MULTI-SECTOR PRESENCE INDEX (MSPI)
+--------------------------------------------------
+
+2020 Results:
+Singapore: 4.6% firms in multiple sectors
+         Average sectors per firm: 1.05
+London: 4.0% firms in multiple sectors
+         Average sectors per firm: 1.04
+
+
+4. SPECIALIZATION COEFFICIENT (SC)
+--------------------------------------------------
+2000: Singapore:  0.45  London:  0.36
+2012: Singapore:  0.86  London:  0.68
+2016: Singapore:  0.85  London:  0.69
+2018: Singapore:  0.84  London:  0.76
+2020: Singapore:  0.85  London:  0.69
+
+
+5. BIMODALITY COEFFICIENT (BC)
+--------------------------------------------------
+2020: Singapore:  0.64  London:  0.54
+
+
+6. SERVICE VALUE DISTRIBUTION (2020)
+--------------------------------------------------
+ Value     Singapore %        London %
+     0           25.1           10.9
+     1            1.1            2.3
+     2           44.0           24.0
+     3           17.1           25.7
+     4           10.9           18.3
+     5            1.7           18.9
+
+Missing Middle (3+4): Singapore: 28.0%  London: 44.0%

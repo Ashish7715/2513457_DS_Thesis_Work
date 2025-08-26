@@ -1,0 +1,66 @@
+TEMPORAL DYNAMICS ANALYSIS
+------------------------------------------------------------
+City                 Mean Change     Volatility      Stability 
+------------------------------------------------------------
+Singapore                     23.26%          46.68     0.021
+London                        21.92%          42.86     0.023
+Dubai                         58.35%         104.44     0.009
+Shanghai                      46.38%          84.42     0.012
+Mumbai                        65.20%          75.79     0.013
+Beijing                       45.68%          82.08     0.012
+
+COMPETITIVE DYNAMICS (2020)
+------------------------------------------------------------
+City Pair                      Overlap    Complementarity
+------------------------------------------------------------
+Singapore-Singapore                1.000          0.000
+London-Singapore                   0.818          0.015
+Singapore-Shanghai                 0.813          0.129
+London-Shanghai                    0.800          0.057
+Singapore-Beijing                  0.769          0.117
+London-Beijing                     0.738          0.055
+Singapore-Dubai                    0.737          0.047
+London-Dubai                       0.665          0.009
+
+2. Quick Analyses
+----------------------------------------
+
+a) Top Rising Cities:
+
+Top 10 Rising Cities (2000-2020):
+------------------------------------------------------------
+City                 2000 Rank  2020 Rank  Improvement
+------------------------------------------------------------
+Dubai                54         7                 +47
+Beijing              36         6                 +30
+Shanghai             31         5                 +26
+Mumbai               21         15                 +6
+Singapore            6          4                  +2
+London               1          1                  +0
+New York             2          2                  +0
+
+b) Banking Leaders:
+
+Top 10 Cities in Banking (2020):
+----------------------------------------
+City                 Sector Score   
+----------------------------------------
+London               134            
+New York (New York)  128            
+Hong Kong            112            
+Singapore            110            
+Shanghai             86             
+Paris                83             
+Frankfurt            80             
+Beijing              79             
+Tokyo                76             
+Toronto              71             
+
+c) Gateway Cities:
+
+Balanced Gateway Cities (2020):
+------------------------------------------------------------
+City                 Balance Score  
+------------------------------------------------------------
+Singapore            0.897          
+London               0.891     
