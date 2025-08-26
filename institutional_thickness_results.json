@@ -1,0 +1,733 @@
+{
+  "convergence_analysis": {
+    "thickness_evolution": {
+      "singapore": {
+        "2000": {
+          "thickness_index": 60.8467065017453,
+          "components": {
+            "connectivity": 34.075833333333335,
+            "institutional": 81.33,
+            "density": 73.42186584205984
+          },
+          "institutional_breakdown": {
+            "wgi": 87.0,
+            "gfci": 68.0,
+            "efi": 87.1,
+            "composite": 81.33,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 40891,
+            "firm_count": 95,
+            "max_gnc": 120000
+          }
+        },
+        "2012": {
+          "thickness_index": 71.58760699646274,
+          "components": {
+            "connectivity": 55.376000000000005,
+            "institutional": 83.51,
+            "density": 80.16603498231363
+          },
+          "institutional_breakdown": {
+            "wgi": 89.0,
+            "gfci": 72.2,
+            "efi": 87.5,
+            "composite": 83.51,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 83064,
+            "firm_count": 145,
+            "max_gnc": 150000
+          }
+        },
+        "2016": {
+          "thickness_index": 75.19242781422165,
+          "components": {
+            "connectivity": 61.181428571428576,
+            "institutional": 85.53999999999999,
+            "density": 82.51928192825103
+          },
+          "institutional_breakdown": {
+            "wgi": 91.0,
+            "gfci": 75.2,
+            "efi": 88.6,
+            "composite": 85.53999999999999,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 85654,
+            "firm_count": 168,
+            "max_gnc": 140000
+          }
+        },
+        "2018": {
+          "thickness_index": 73.53757725112821,
+          "components": {
+            "connectivity": 55.88615384615384,
+            "institutional": 86.51,
+            "density": 82.89557856333337
+          },
+          "institutional_breakdown": {
+            "wgi": 92.0,
+            "gfci": 76.9,
+            "efi": 88.8,
+            "composite": 86.51,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 72652,
+            "firm_count": 172,
+            "max_gnc": 130000
+          }
+        },
+        "2020": {
+          "thickness_index": 73.13205655314292,
+          "components": {
+            "connectivity": 54.87407407407407,
+            "institutional": 86.37,
+            "density": 83.17213461756643
+          },
+          "institutional_breakdown": {
+            "wgi": 93.0,
+            "gfci": 74.2,
+            "efi": 89.7,
+            "composite": 86.37,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 74080,
+            "firm_count": 175,
+            "max_gnc": 135000
+          }
+        }
+      },
+      "london": {
+        "2000": {
+          "thickness_index": 70.07242692351329,
+          "components": {
+            "connectivity": 52.795,
+            "institutional": 80.8,
+            "density": 83.17213461756643
+          },
+          "institutional_breakdown": {
+            "wgi": 85.0,
+            "gfci": 79.5,
+            "efi": 76.5,
+            "composite": 80.8,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 63354,
+            "firm_count": 175,
+            "max_gnc": 120000
+          }
+        },
+        "2012": {
+          "thickness_index": 82.07302269501935,
+          "components": {
+            "connectivity": 82.30933333333333,
+            "institutional": 79.64,
+            "density": 86.4664468084301
+          },
+          "institutional_breakdown": {
+            "wgi": 83.0,
+            "gfci": 80.7,
+            "efi": 74.1,
+            "composite": 79.64,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 123464,
+            "firm_count": 215,
+            "max_gnc": 150000
+          }
+        },
+        "2016": {
+          "thickness_index": 81.3167076667928,
+          "components": {
+            "connectivity": 81.14785714285713,
+            "institutional": 79.57000000000001,
+            "density": 85.14782404824963
+          },
+          "institutional_breakdown": {
+            "wgi": 82.0,
+            "gfci": 79.5,
+            "efi": 76.4,
+            "composite": 79.57000000000001,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 113607,
+            "firm_count": 198,
+            "max_gnc": 140000
+          }
+        },
+        "2018": {
+          "thickness_index": 80.13223705226014,
+          "components": {
+            "connectivity": 78.87692307692308,
+            "institutional": 79.38,
+            "density": 84.1473391074545
+          },
+          "institutional_breakdown": {
+            "wgi": 81.0,
+            "gfci": 78.6,
+            "efi": 78.0,
+            "composite": 79.38,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 102540,
+            "firm_count": 186,
+            "max_gnc": 130000
+          }
+        },
+        "2020": {
+          "thickness_index": 81.62762484161561,
+          "components": {
+            "connectivity": 83.95851851851852,
+            "institutional": 78.08,
+            "density": 84.06108717104101
+          },
+          "institutional_breakdown": {
+            "wgi": 80.0,
+            "gfci": 74.3,
+            "efi": 79.3,
+            "composite": 78.08,
+            "weights_used": {
+              "wgi": 0.4,
+              "gfci": 0.3,
+              "efi": 0.3
+            }
+          },
+          "weights": {
+            "connectivity": 0.4,
+            "institutional": 0.4,
+            "density": 0.2
+          },
+          "method": "amin_thrift",
+          "raw_values": {
+            "gnc": 113344,
+            "firm_count": 185,
+            "max_gnc": 135000
+          }
+        }
+      }
+    },
+    "gap_analysis": {
+      "2000": {
+        "absolute_gap": 9.225720421767988,
+        "percentage_gap": 13.165978155485055,
+        "singapore_as_pct_of_london": 86.83402184451494
+      },
+      "2012": {
+        "absolute_gap": 10.485415698556608,
+        "percentage_gap": 12.775715276772573,
+        "singapore_as_pct_of_london": 87.22428472322743
+      },
+      "2016": {
+        "absolute_gap": 6.124279852571149,
+        "percentage_gap": 7.531391799169107,
+        "singapore_as_pct_of_london": 92.46860820083089
+      },
+      "2018": {
+        "absolute_gap": 6.594659801131925,
+        "percentage_gap": 8.22972132530265,
+        "singapore_as_pct_of_london": 91.77027867469735
+      },
+      "2020": {
+        "absolute_gap": 8.495568288472697,
+        "percentage_gap": 10.40771222359696,
+        "singapore_as_pct_of_london": 89.59228777640304
+      }
+    },
+    "convergence_metrics": {
+      "total_gap_reduction": 0.7301521332952916,
+      "percentage_gap_reduction": 7.914310210100292,
+      "annual_convergence_rate": 0.03650760666476458,
+      "years_to_parity": 77.28303811168573
+    },
+    "component_decomposition": {
+      "2000": {
+        "connectivity_gap": 18.719166666666666,
+        "institutional_gap": -0.5300000000000011,
+        "density_gap": 9.750268775506584
+      },
+      "2012": {
+        "connectivity_gap": 26.933333333333323,
+        "institutional_gap": -3.8700000000000045,
+        "density_gap": 6.300411826116473
+      },
+      "2016": {
+        "connectivity_gap": 19.96642857142856,
+        "institutional_gap": -5.969999999999985,
+        "density_gap": 2.628542119998599
+      },
+      "2018": {
+        "connectivity_gap": 22.99076923076924,
+        "institutional_gap": -7.13000000000001,
+        "density_gap": 1.251760544121126
+      },
+      "2020": {
+        "connectivity_gap": 29.084444444444443,
+        "institutional_gap": -8.290000000000006,
+        "density_gap": 0.8889525534745815
+      }
+    },
+    "statistical_tests": {
+      "gap_trend": {
+        "slope": -0.10992798026645006,
+        "intercept": 229.49213868491734,
+        "r_squared": 0.23060516663514014,
+        "p_value": 0.4129611625767664,
+        "std_error": 0.11592783823750492,
+        "converging": false
+      }
+    }
+  },
+  "sensitivity_analysis": {
+    "weight_variations": {
+      "connectivity_emphasis": {
+        "singapore": {
+          "2000": 56.12128983507863,
+          "2012": 68.77420699646272,
+          "2016": 72.75657067136449,
+          "2018": 70.4751926357436,
+          "2020": 69.98246396055032
+        },
+        "london": {
+          "2000": 67.27192692351329,
+          "2012": 82.33995602835269,
+          "2016": 81.47449338107849,
+          "2018": 80.08192935995243,
+          "2020": 82.21547669346747
+        }
+      },
+      "institutional_emphasis": {
+        "singapore": {
+          "2000": 65.57212316841196,
+          "2012": 74.40100699646273,
+          "2016": 77.62828495707878,
+          "2018": 76.59996186651283,
+          "2020": 76.28164914573551
+        },
+        "london": {
+          "2000": 72.87292692351329,
+          "2012": 81.80608936168602,
+          "2016": 81.15892195250707,
+          "2018": 80.18254474456782,
+          "2020": 81.03977298976376
+        }
+      },
+      "density_emphasis": {
+        "singapore": {
+          "2000": 63.99049633682394,
+          "2012": 73.73221399292547,
+          "2016": 77.02414134272897,
+          "2018": 75.8770775791795,
+          "2020": 75.64207606924879
+        },
+        "london": {
+          "2000": 73.34735384702657,
+          "2012": 83.17137872337204,
+          "2016": 82.274486762157,
+          "2018": 81.13601256605872,
+          "2020": 82.23599042397197
+        }
+      },
+      "amin_thrift": {
+        "singapore": {
+          "2000": 60.8467065017453,
+          "2012": 71.58760699646274,
+          "2016": 75.19242781422165,
+          "2018": 73.53757725112821,
+          "2020": 73.13205655314292
+        },
+        "london": {
+          "2000": 70.07242692351329,
+          "2012": 82.07302269501935,
+          "2016": 81.3167076667928,
+          "2018": 80.13223705226014,
+          "2020": 81.62762484161561
+        }
+      },
+      "equal": {
+        "singapore": {
+          "2000": 62.95304569124799,
+          "2012": 73.02449368409276,
+          "2016": 76.41967587832156,
+          "2018": 75.10504247092257,
+          "2020": 74.81376962893385
+        },
+        "london": {
+          "2000": 72.2666279622672,
+          "2012": 82.80892123401566,
+          "2016": 81.95841966068681,
+          "2018": 80.80476664650519,
+          "2020": 82.03522978179437
+        }
+      }
+    },
+    "parameter_variations": {
+      "2000": {
+        "singapore": {
+          "institutional_+10%": {
+            "value": 64.09990650174531,
+            "change": 5.346550679627489
+          },
+          "institutional_-10%": {
+            "value": 57.59350650174531,
+            "change": -5.346550679627465
+          },
+          "gnc_+10%": {
+            "value": 62.209739835078636,
+            "change": 2.2401102897726064
+          },
+          "gnc_-10%": {
+            "value": 59.48367316841197,
+            "change": -2.2401102897726064
+          }
+        },
+        "london": {
+          "institutional_+10%": {
+            "value": 73.30442692351329,
+            "change": 4.612370574131605
+          },
+          "institutional_-10%": {
+            "value": 66.84042692351329,
+            "change": -4.612370574131605
+          },
+          "gnc_+10%": {
+            "value": 72.1842269235133,
+            "change": 3.01373891659998
+          },
+          "gnc_-10%": {
+            "value": 67.96062692351329,
+            "change": -3.01373891659998
+          }
+        }
+      },
+      "2012": {
+        "singapore": {
+          "institutional_+10%": {
+            "value": 74.92800699646274,
+            "change": 4.666170780321037
+          },
+          "institutional_-10%": {
+            "value": 68.24720699646274,
+            "change": -4.666170780321037
+          },
+          "gnc_+10%": {
+            "value": 73.80264699646273,
+            "change": 3.0941668438636825
+          },
+          "gnc_-10%": {
+            "value": 69.37256699646274,
+            "change": -3.094166843863702
+          }
+        },
+        "london": {
+          "institutional_+10%": {
+            "value": 85.25862269501937,
+            "change": 3.881421562646239
+          },
+          "institutional_-10%": {
+            "value": 78.88742269501935,
+            "change": -3.8814215626462043
+          },
+          "gnc_+10%": {
+            "value": 85.3653960283527,
+            "change": 4.011517092001972
+          },
+          "gnc_-10%": {
+            "value": 78.78064936168602,
+            "change": -4.011517092001937
+          }
+        }
+      },
+      "2016": {
+        "singapore": {
+          "institutional_+10%": {
+            "value": 78.61402781422164,
+            "change": 4.550458203655512
+          },
+          "institutional_-10%": {
+            "value": 71.77082781422163,
+            "change": -4.5504582036555306
+          },
+          "gnc_+10%": {
+            "value": 77.63968495707879,
+            "change": 3.254659031496618
+          },
+          "gnc_-10%": {
+            "value": 72.74517067136449,
+            "change": -3.2546590314966375
+          }
+        },
+        "london": {
+          "institutional_+10%": {
+            "value": 84.4995076667928,
+            "change": 3.9140787807617503
+          },
+          "institutional_-10%": {
+            "value": 78.1339076667928,
+            "change": -3.9140787807617503
+          },
+          "gnc_+10%": {
+            "value": 84.56262195250709,
+            "change": 3.9916941780462936
+          },
+          "gnc_-10%": {
+            "value": 78.0707933810785,
+            "change": -3.9916941780462936
+          }
+        }
+      },
+      "2018": {
+        "singapore": {
+          "institutional_+10%": {
+            "value": 76.99797725112822,
+            "change": 4.705621437843763
+          },
+          "institutional_-10%": {
+            "value": 70.07717725112822,
+            "change": -4.705621437843743
+          },
+          "gnc_+10%": {
+            "value": 75.77302340497438,
+            "change": 3.039869189886689
+          },
+          "gnc_-10%": {
+            "value": 71.30213109728207,
+            "change": -3.03986918988665
+          }
+        },
+        "london": {
+          "institutional_+10%": {
+            "value": 83.30743705226013,
+            "change": 3.9624502157966806
+          },
+          "institutional_-10%": {
+            "value": 76.95703705226013,
+            "change": -3.9624502157966988
+          },
+          "gnc_+10%": {
+            "value": 83.28731397533707,
+            "change": 3.9373378794096006
+          },
+          "gnc_-10%": {
+            "value": 76.9771601291832,
+            "change": -3.9373378794096006
+          }
+        }
+      },
+      "2020": {
+        "singapore": {
+          "institutional_+10%": {
+            "value": 76.58685655314292,
+            "change": 4.724056949621681
+          },
+          "institutional_-10%": {
+            "value": 69.67725655314293,
+            "change": -4.724056949621661
+          },
+          "gnc_+10%": {
+            "value": 75.32701951610588,
+            "change": 3.001369121033737
+          },
+          "gnc_-10%": {
+            "value": 70.93709359017996,
+            "change": -3.001369121033737
+          }
+        },
+        "london": {
+          "institutional_+10%": {
+            "value": 84.75082484161561,
+            "change": 3.826155674699626
+          },
+          "institutional_-10%": {
+            "value": 78.50442484161562,
+            "change": -3.826155674699626
+          },
+          "gnc_+10%": {
+            "value": 84.98596558235636,
+            "change": 4.1142208256788395
+          },
+          "gnc_-10%": {
+            "value": 78.26928410087487,
+            "change": -4.1142208256788395
+          }
+        }
+      }
+    },
+    "bootstrap_confidence": {
+      "2020": {
+        "singapore": {
+          "mean": 73.07610848823433,
+          "std": 1.108056595212184,
+          "ci_95": {
+            "lower": 70.86612390496197,
+            "upper": 75.24110513528314
+          },
+          "ci_99": {
+            "lower": 70.37674674883496,
+            "upper": 75.81006078775054
+          }
+        },
+        "london": {
+          "mean": 81.55881504618144,
+          "std": 1.6449564296512846,
+          "ci_95": {
+            "lower": 78.48093696932965,
+            "upper": 84.68878983799239
+          },
+          "ci_99": {
+            "lower": 77.41793227196219,
+            "upper": 85.44725465862903
+          }
+        }
+      }
+    },
+    "convergence_robustness": {}
+  },
+  "validation": {
+    "temporal_consistency": {
+      "singapore": {
+        "max_change": 17.65239420873067,
+        "avg_change": 6.360049853187382,
+        "consistent": true
+      },
+      "london": {
+        "max_change": 17.125988492742174,
+        "avg_change": 5.342566851507333,
+        "consistent": true
+      }
+    },
+    "cross_validation": {},
+    "robustness_checks": {
+      "convergence_significant": false,
+      "r_squared": 0.23060516663514014,
+      "trend_direction": "converging"
+    }
+  },
+  "methodology": {
+    "weighting_method": "amin_thrift",
+    "weights": {
+      "connectivity": 0.4,
+      "institutional": 0.4,
+      "density": 0.2,
+      "description": "Based on Amin & Thrift (1995) framework"
+    },
+    "data_sources": {
+      "WGI": "World Bank Governance Indicators (2020): Average of six dimensions",
+      "GFCI": "Global Financial Centres Index (Z/Yen Group): Financial sector competitiveness",
+      "EFI": "Heritage Foundation Economic Freedom Index: Overall economic freedom score"
+    }
+  },
+  "metadata": {
+    "analysis_date": "2025-08-05T15:26:06.117562",
+    "years_analyzed": [
+      2000,
+      2012,
+      2016,
+      2018,
+      2020
+    ],
+    "cities": [
+      "Singapore",
+      "London"
+    ]
+  }
+}

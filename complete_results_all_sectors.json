@@ -1,0 +1,3219 @@
+{
+  "singapore": {
+    "2000": {
+      "Total": 40891.0,
+      "Accountancy": 12359.0,
+      "Advertising": 5642.0,
+      "Financial": 13174.0,
+      "Insurance": 4017.0,
+      "Legal": 1899.0,
+      "Management Consultancy": 2998.0
+    },
+    "2012": {
+      "Total": 83064.0,
+      "Accountancy": 22952.0,
+      "Advertising": 8576.0,
+      "Financial": 22518.0,
+      "Insurance": 0.0,
+      "Legal": 2798.0,
+      "Management Consultancy": 1954.0
+    },
+    "2016": {
+      "Total": 85654.0,
+      "Accountancy": 34067.0,
+      "Advertising": 6482.0,
+      "Financial": 18631.0,
+      "Insurance": 0.0,
+      "Legal": 3523.0,
+      "Management Consultancy": 2046.0
+    },
+    "2018": {
+      "Total": 72652.0,
+      "Accountancy": 22605.0,
+      "Advertising": 4816.0,
+      "Financial": 19411.0,
+      "Insurance": 0.0,
+      "Legal": 4106.0,
+      "Management Consultancy": 2795.0
+    },
+    "2020": {
+      "Total": 74080.0,
+      "Accountancy": 21736.0,
+      "Advertising": 5063.0,
+      "Financial": 23025.0,
+      "Insurance": 0.0,
+      "Legal": 4119.0,
+      "Management Consultancy": 2798.0
+    }
+  },
+  "london": {
+    "2000": {
+      "Total": 63354.0,
+      "Accountancy": 23796.0,
+      "Advertising": 8097.0,
+      "Financial": 16593.0,
+      "Insurance": 6419.0,
+      "Legal": 3505.0,
+      "Management Consultancy": 4754.0
+    },
+    "2012": {
+      "Total": 123464.0,
+      "Accountancy": 38840.0,
+      "Advertising": 10183.0,
+      "Financial": 30262.0,
+      "Insurance": 0.0,
+      "Legal": 5652.0,
+      "Management Consultancy": 3765.0
+    },
+    "2016": {
+      "Total": 113607.0,
+      "Accountancy": 44593.0,
+      "Advertising": 7670.0,
+      "Financial": 21927.0,
+      "Insurance": 0.0,
+      "Legal": 6793.0,
+      "Management Consultancy": 2158.0
+    },
+    "2018": {
+      "Total": 102540.0,
+      "Accountancy": 37420.0,
+      "Advertising": 4320.0,
+      "Financial": 23847.0,
+      "Insurance": 0.0,
+      "Legal": 6238.0,
+      "Management Consultancy": 3161.0
+    },
+    "2020": {
+      "Total": 113344.0,
+      "Accountancy": 42997.0,
+      "Advertising": 6288.0,
+      "Financial": 25127.0,
+      "Insurance": 0.0,
+      "Legal": 6607.0,
+      "Management Consultancy": 3963.0
+    }
+  },
+  "ssi": {
+    "2000": {
+      "Accountancy": 0.8046845830852506,
+      "Advertising": 1.0795810465272493,
+      "Financial": 1.2300961372005208,
+      "Insurance": 0.969573562114676,
+      "Legal": 0.8394276129737905,
+      "Management Consultancy": 0.9770544338984583
+    },
+    "2012": {
+      "Accountancy": 0.8783524482951762,
+      "Advertising": 1.2518045643563205,
+      "Financial": 1.1060116206358146,
+      "Insurance": 0.0,
+      "Legal": 0.7358224925208807,
+      "Management Consultancy": 0.7714132266721102
+    },
+    "2016": {
+      "Accountancy": 1.0132687351274017,
+      "Advertising": 1.1209109333451532,
+      "Financial": 1.1269752846522623,
+      "Insurance": 0.0,
+      "Legal": 0.6878733294883174,
+      "Management Consultancy": 1.2575105334125163
+    },
+    "2018": {
+      "Accountancy": 0.8526022355371908,
+      "Advertising": 1.5734337817418806,
+      "Financial": 1.1488409216584832,
+      "Insurance": 0.0,
+      "Legal": 0.929007699628301,
+      "Management Consultancy": 1.2479668671564155
+    },
+    "2020": {
+      "Accountancy": 0.7734620894491057,
+      "Advertising": 1.231949642501882,
+      "Financial": 1.4020275918420815,
+      "Insurance": 0.0,
+      "Legal": 0.9538608995433536,
+      "Management Consultancy": 1.0802423497263294
+    }
+  },
+  "singapore_temporal": {
+    "Accountancy": {
+      "peak_year": 2016,
+      "peak_value": 34067.0,
+      "coefficient_of_variation": 30.279717325952426,
+      "volatility_interpretation": "High",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 5.293872931402643,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": 10.376937191136859,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": -18.54170597884498,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": -1.9409780991278769,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 12359.0,
+        "2012": 22952.0,
+        "2016": 34067.0,
+        "2018": 22605.0,
+        "2020": 21736.0
+      }
+    },
+    "Advertising": {
+      "peak_year": 2012,
+      "peak_value": 8576.0,
+      "coefficient_of_variation": 22.190593701285653,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 3.5510024508864646,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": -6.759184433774379,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": -13.80367980272733,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 2.5323059047870355,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 5642.0,
+        "2012": 8576.0,
+        "2016": 6482.0,
+        "2018": 4816.0,
+        "2020": 5063.0
+      }
+    },
+    "Financial": {
+      "peak_year": 2020,
+      "peak_value": 23025.0,
+      "coefficient_of_variation": 18.226697731610532,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 4.568532437391193,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": -4.626748775409273,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": 2.0718231291810385,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 8.912032946832937,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 13174.0,
+        "2012": 22518.0,
+        "2016": 18631.0,
+        "2018": 19411.0,
+        "2020": 23025.0
+      }
+    },
+    "Insurance": {
+      "peak_year": 2000,
+      "peak_value": 4017.0,
+      "coefficient_of_variation": 200.00000000000006,
+      "volatility_interpretation": "High",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": -100.0,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": 0.0,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": 0.0,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 0.0,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 4017.0,
+        "2012": 0.0,
+        "2016": 0.0,
+        "2018": 0.0,
+        "2020": 0.0
+      }
+    },
+    "Legal": {
+      "peak_year": 2020,
+      "peak_value": 4119.0,
+      "coefficient_of_variation": 25.74274623885046,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 3.2825365690966057,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": 5.929331918401415,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": 7.9575825281361645,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 0.15817981535988235,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 1899.0,
+        "2012": 2798.0,
+        "2016": 3523.0,
+        "2018": 4106.0,
+        "2020": 4119.0
+      }
+    },
+    "Management Consultancy": {
+      "peak_year": 2000,
+      "peak_value": 2998.0,
+      "coefficient_of_variation": 17.093307842153788,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": -3.5043481465368065,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": 1.1568431151027347,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": 16.879431740693242,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 0.05365286981739992,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 2998.0,
+        "2012": 1954.0,
+        "2016": 2046.0,
+        "2018": 2795.0,
+        "2020": 2798.0
+      }
+    },
+    "Total": {
+      "peak_year": 2016,
+      "peak_value": 85654.0,
+      "coefficient_of_variation": 22.438892838882076,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 6.083724531292423,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": 0.7705669627007916,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": -7.902050170691588,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 0.9779848917720768,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 40891.0,
+        "2012": 83064.0,
+        "2016": 85654.0,
+        "2018": 72652.0,
+        "2020": 74080.0
+      }
+    }
+  },
+  "london_temporal": {
+    "Accountancy": {
+      "peak_year": 2016,
+      "peak_value": 44593.0,
+      "coefficient_of_variation": 19.585203556151136,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 4.1672674483853145,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": 3.513469997546559,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": -8.39513346378994,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 7.193187639028298,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 23796.0,
+        "2012": 38840.0,
+        "2016": 44593.0,
+        "2018": 37420.0,
+        "2020": 42997.0
+      }
+    },
+    "Advertising": {
+      "peak_year": 2012,
+      "peak_value": 10183.0,
+      "coefficient_of_variation": 26.652527621924378,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 1.928578376734169,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": -6.839908794511751,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": -24.951124139485025,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 20.646407139025726,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 8097.0,
+        "2012": 10183.0,
+        "2016": 7670.0,
+        "2018": 4320.0,
+        "2020": 6288.0
+      }
+    },
+    "Financial": {
+      "peak_year": 2012,
+      "peak_value": 30262.0,
+      "coefficient_of_variation": 18.861343699818796,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 5.135098553253958,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": -7.7385241610088755,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": 4.286301984020202,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 2.648697738441852,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 16593.0,
+        "2012": 30262.0,
+        "2016": 21927.0,
+        "2018": 23847.0,
+        "2020": 25127.0
+      }
+    },
+    "Insurance": {
+      "peak_year": 2000,
+      "peak_value": 6419.0,
+      "coefficient_of_variation": 200.00000000000006,
+      "volatility_interpretation": "High",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": -100.0,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": 0.0,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": 0.0,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 0.0,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 6419.0,
+        "2012": 0.0,
+        "2016": 0.0,
+        "2018": 0.0,
+        "2020": 0.0
+      }
+    },
+    "Legal": {
+      "peak_year": 2016,
+      "peak_value": 6793.0,
+      "coefficient_of_variation": 20.705824024873415,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 4.062161919660068,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": 4.704383824059755,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": -4.172120539131563,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 2.915187162232691,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 3505.0,
+        "2012": 5652.0,
+        "2016": 6793.0,
+        "2018": 6238.0,
+        "2020": 6607.0
+      }
+    },
+    "Management Consultancy": {
+      "peak_year": 2000,
+      "peak_value": 4754.0,
+      "coefficient_of_variation": 24.340995292085754,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": -1.9248870582070365,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": -12.98950988815395,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": 21.028187036989898,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 11.969512730394328,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 4754.0,
+        "2012": 3765.0,
+        "2016": 2158.0,
+        "2018": 3161.0,
+        "2020": 3963.0
+      }
+    },
+    "Total": {
+      "peak_year": 2012,
+      "peak_value": 123464.0,
+      "coefficient_of_variation": 20.359501950095186,
+      "volatility_interpretation": "Moderate",
+      "growth_rates": [
+        {
+          "period": "2000-2012",
+          "rate": 5.717574851278973,
+          "years": 12
+        },
+        {
+          "period": "2012-2016",
+          "rate": -2.058627180968886,
+          "years": 4
+        },
+        {
+          "period": "2016-2018",
+          "rate": -4.995514420480063,
+          "years": 2
+        },
+        {
+          "period": "2018-2020",
+          "rate": 5.136281106177321,
+          "years": 2
+        }
+      ],
+      "values": {
+        "2000": 63354.0,
+        "2012": 123464.0,
+        "2016": 113607.0,
+        "2018": 102540.0,
+        "2020": 113344.0
+      }
+    }
+  },
+  "sectoral_dynamics": {
+    "2000": {
+      "synergies": {
+        "Accountancy-Advertising": {
+          "singapore": {
+            "synergy": 1.3252150581457833,
+            "is_outlier": false,
+            "synergy_cities_count": 214,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.3124313746519833,
+            "is_outlier": false,
+            "synergy_cities_count": 214,
+            "total_cities": 314
+          }
+        },
+        "Accountancy-Financial": {
+          "singapore": {
+            "synergy": 1.110514663732852,
+            "is_outlier": false,
+            "synergy_cities_count": 275,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.105434017813131,
+            "is_outlier": false,
+            "synergy_cities_count": 275,
+            "total_cities": 314
+          }
+        },
+        "Accountancy-Insurance": {
+          "singapore": {
+            "synergy": 1.1577866014794072,
+            "is_outlier": false,
+            "synergy_cities_count": 254,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.1525919883876836,
+            "is_outlier": false,
+            "synergy_cities_count": 254,
+            "total_cities": 314
+          }
+        },
+        "Accountancy-Legal": {
+          "singapore": {
+            "synergy": 1.7618179267779495,
+            "is_outlier": false,
+            "synergy_cities_count": 103,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.7492193287133762,
+            "is_outlier": false,
+            "synergy_cities_count": 103,
+            "total_cities": 314
+          }
+        },
+        "Accountancy-Management Consultancy": {
+          "singapore": {
+            "synergy": 1.5868050737280315,
+            "is_outlier": false,
+            "synergy_cities_count": 145,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.5622822634217042,
+            "is_outlier": false,
+            "synergy_cities_count": 145,
+            "total_cities": 314
+          }
+        },
+        "Advertising-Financial": {
+          "singapore": {
+            "synergy": 1.414239389785765,
+            "is_outlier": false,
+            "synergy_cities_count": 201,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.42121873419456,
+            "is_outlier": false,
+            "synergy_cities_count": 201,
+            "total_cities": 314
+          }
+        },
+        "Advertising-Insurance": {
+          "singapore": {
+            "synergy": 1.5093750660980287,
+            "is_outlier": false,
+            "synergy_cities_count": 186,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.5057015321617673,
+            "is_outlier": false,
+            "synergy_cities_count": 186,
+            "total_cities": 314
+          }
+        },
+        "Advertising-Legal": {
+          "singapore": {
+            "synergy": 2.3837180715459607,
+            "is_outlier": false,
+            "synergy_cities_count": 89,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 2.4534243417930655,
+            "is_outlier": false,
+            "synergy_cities_count": 89,
+            "total_cities": 314
+          }
+        },
+        "Advertising-Management Consultancy": {
+          "singapore": {
+            "synergy": 2.042994337312519,
+            "is_outlier": false,
+            "synergy_cities_count": 121,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 2.0544666106313234,
+            "is_outlier": false,
+            "synergy_cities_count": 121,
+            "total_cities": 314
+          }
+        },
+        "Financial-Insurance": {
+          "singapore": {
+            "synergy": 1.2557248535539998,
+            "is_outlier": false,
+            "synergy_cities_count": 235,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.2562740623763364,
+            "is_outlier": false,
+            "synergy_cities_count": 235,
+            "total_cities": 314
+          }
+        },
+        "Financial-Legal": {
+          "singapore": {
+            "synergy": 2.2035575016401663,
+            "is_outlier": false,
+            "synergy_cities_count": 99,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 2.241254217968319,
+            "is_outlier": false,
+            "synergy_cities_count": 99,
+            "total_cities": 314
+          }
+        },
+        "Financial-Management Consultancy": {
+          "singapore": {
+            "synergy": 1.759907578043079,
+            "is_outlier": false,
+            "synergy_cities_count": 142,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.7755814881795575,
+            "is_outlier": false,
+            "synergy_cities_count": 142,
+            "total_cities": 314
+          }
+        },
+        "Insurance-Legal": {
+          "singapore": {
+            "synergy": 2.3974724152316833,
+            "is_outlier": false,
+            "synergy_cities_count": 94,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 2.4410284116733987,
+            "is_outlier": false,
+            "synergy_cities_count": 94,
+            "total_cities": 314
+          }
+        },
+        "Insurance-Management Consultancy": {
+          "singapore": {
+            "synergy": 1.959722124622288,
+            "is_outlier": false,
+            "synergy_cities_count": 142,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 1.944086788699619,
+            "is_outlier": false,
+            "synergy_cities_count": 142,
+            "total_cities": 314
+          }
+        },
+        "Legal-Management Consultancy": {
+          "singapore": {
+            "synergy": 3.188059389272676,
+            "is_outlier": true,
+            "synergy_cities_count": 82,
+            "total_cities": 314
+          },
+          "london": {
+            "synergy": 3.203343580838642,
+            "is_outlier": true,
+            "synergy_cities_count": 82,
+            "total_cities": 314
+          }
+        }
+      },
+      "decomposition": {
+        "singapore": {
+          "domestic": {
+            "gnc": 0.0,
+            "share": 0.0,
+            "firm_count": 0,
+            "leverage": 0,
+            "threshold_used": 3.2196379715914336
+          },
+          "international": {
+            "gnc": 40891.0,
+            "share": 1.0,
+            "firm_count": 100
+          },
+          "total": 40891.0
+        },
+        "london": {
+          "domestic": {
+            "gnc": 19890.0,
+            "share": 0.3139501846765792,
+            "firm_count": 22,
+            "leverage": 904.0909090909091,
+            "threshold_used": 3.2196379715914336
+          },
+          "international": {
+            "gnc": 43464.0,
+            "share": 0.6860498153234208,
+            "firm_count": 78
+          },
+          "total": 63354.0
+        }
+      }
+    },
+    "2012": {
+      "synergies": {
+        "Accountancy-Advertising": {
+          "singapore": {
+            "synergy": 1.8252698899679363,
+            "is_outlier": false,
+            "synergy_cities_count": 220,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 1.7788692876998369,
+            "is_outlier": false,
+            "synergy_cities_count": 220,
+            "total_cities": 524
+          }
+        },
+        "Accountancy-Financial": {
+          "singapore": {
+            "synergy": 1.1605040464731693,
+            "is_outlier": false,
+            "synergy_cities_count": 437,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 1.162644654832206,
+            "is_outlier": false,
+            "synergy_cities_count": 437,
+            "total_cities": 524
+          }
+        },
+        "Accountancy-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Accountancy-Legal": {
+          "singapore": {
+            "synergy": 2.06836110708593,
+            "is_outlier": false,
+            "synergy_cities_count": 134,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 2.1155371215486,
+            "is_outlier": false,
+            "synergy_cities_count": 134,
+            "total_cities": 524
+          }
+        },
+        "Accountancy-Management Consultancy": {
+          "singapore": {
+            "synergy": 1.939484052393688,
+            "is_outlier": false,
+            "synergy_cities_count": 157,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 1.9596186865421286,
+            "is_outlier": false,
+            "synergy_cities_count": 157,
+            "total_cities": 524
+          }
+        },
+        "Advertising-Financial": {
+          "singapore": {
+            "synergy": 1.924591149717062,
+            "is_outlier": false,
+            "synergy_cities_count": 215,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 1.8805288836116807,
+            "is_outlier": false,
+            "synergy_cities_count": 215,
+            "total_cities": 524
+          }
+        },
+        "Advertising-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Advertising-Legal": {
+          "singapore": {
+            "synergy": 3.603455082926635,
+            "is_outlier": true,
+            "synergy_cities_count": 106,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 3.7130883938731376,
+            "is_outlier": true,
+            "synergy_cities_count": 106,
+            "total_cities": 524
+          }
+        },
+        "Advertising-Management Consultancy": {
+          "singapore": {
+            "synergy": 3.2978254221192076,
+            "is_outlier": true,
+            "synergy_cities_count": 118,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 3.3384678199413806,
+            "is_outlier": true,
+            "synergy_cities_count": 118,
+            "total_cities": 524
+          }
+        },
+        "Financial-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Financial-Legal": {
+          "singapore": {
+            "synergy": 2.5170475492801296,
+            "is_outlier": true,
+            "synergy_cities_count": 132,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 2.572775704924728,
+            "is_outlier": true,
+            "synergy_cities_count": 132,
+            "total_cities": 524
+          }
+        },
+        "Financial-Management Consultancy": {
+          "singapore": {
+            "synergy": 2.337248099210157,
+            "is_outlier": false,
+            "synergy_cities_count": 155,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 2.3563276601029353,
+            "is_outlier": false,
+            "synergy_cities_count": 155,
+            "total_cities": 524
+          }
+        },
+        "Insurance-Legal": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Insurance-Management Consultancy": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Legal-Management Consultancy": {
+          "singapore": {
+            "synergy": 4.540314144683077,
+            "is_outlier": true,
+            "synergy_cities_count": 103,
+            "total_cities": 524
+          },
+          "london": {
+            "synergy": 4.513110456095205,
+            "is_outlier": true,
+            "synergy_cities_count": 103,
+            "total_cities": 524
+          }
+        }
+      },
+      "decomposition": {
+        "singapore": {
+          "domestic": {
+            "gnc": 385.0,
+            "share": 0.004634980256188,
+            "firm_count": 1,
+            "leverage": 385.0,
+            "threshold_used": 3.2708071805302392
+          },
+          "international": {
+            "gnc": 82679.0,
+            "share": 0.995365019743812,
+            "firm_count": 174
+          },
+          "total": 83064.0
+        },
+        "london": {
+          "domestic": {
+            "gnc": 46980.0,
+            "share": 0.3805157778785719,
+            "firm_count": 29,
+            "leverage": 1620.0,
+            "threshold_used": 3.2708071805302392
+          },
+          "international": {
+            "gnc": 76484.0,
+            "share": 0.6194842221214281,
+            "firm_count": 146
+          },
+          "total": 123464.0
+        }
+      }
+    },
+    "2016": {
+      "synergies": {
+        "Accountancy-Advertising": {
+          "singapore": {
+            "synergy": 2.166923203174363,
+            "is_outlier": false,
+            "synergy_cities_count": 232,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.153690188944905,
+            "is_outlier": false,
+            "synergy_cities_count": 232,
+            "total_cities": 706
+          }
+        },
+        "Accountancy-Financial": {
+          "singapore": {
+            "synergy": 1.3881582563494523,
+            "is_outlier": false,
+            "synergy_cities_count": 464,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 1.4136340898252016,
+            "is_outlier": false,
+            "synergy_cities_count": 464,
+            "total_cities": 706
+          }
+        },
+        "Accountancy-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Accountancy-Legal": {
+          "singapore": {
+            "synergy": 2.110891813791521,
+            "is_outlier": false,
+            "synergy_cities_count": 189,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.1758016975780565,
+            "is_outlier": false,
+            "synergy_cities_count": 189,
+            "total_cities": 706
+          }
+        },
+        "Accountancy-Management Consultancy": {
+          "singapore": {
+            "synergy": 2.3094301880473065,
+            "is_outlier": false,
+            "synergy_cities_count": 168,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.2833496813411682,
+            "is_outlier": false,
+            "synergy_cities_count": 168,
+            "total_cities": 706
+          }
+        },
+        "Advertising-Financial": {
+          "singapore": {
+            "synergy": 2.46823372847483,
+            "is_outlier": false,
+            "synergy_cities_count": 207,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.5995998745792717,
+            "is_outlier": true,
+            "synergy_cities_count": 207,
+            "total_cities": 706
+          }
+        },
+        "Advertising-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Advertising-Legal": {
+          "singapore": {
+            "synergy": 4.151376619382616,
+            "is_outlier": true,
+            "synergy_cities_count": 130,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 4.248338731723922,
+            "is_outlier": true,
+            "synergy_cities_count": 130,
+            "total_cities": 706
+          }
+        },
+        "Advertising-Management Consultancy": {
+          "singapore": {
+            "synergy": 4.168826446761784,
+            "is_outlier": true,
+            "synergy_cities_count": 129,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 4.142517975851309,
+            "is_outlier": true,
+            "synergy_cities_count": 129,
+            "total_cities": 706
+          }
+        },
+        "Financial-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Financial-Legal": {
+          "singapore": {
+            "synergy": 2.730359416523481,
+            "is_outlier": true,
+            "synergy_cities_count": 183,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.853815623240026,
+            "is_outlier": true,
+            "synergy_cities_count": 183,
+            "total_cities": 706
+          }
+        },
+        "Financial-Management Consultancy": {
+          "singapore": {
+            "synergy": 2.8152324309914283,
+            "is_outlier": true,
+            "synergy_cities_count": 164,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 3.011537896778179,
+            "is_outlier": true,
+            "synergy_cities_count": 164,
+            "total_cities": 706
+          }
+        },
+        "Insurance-Legal": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Insurance-Management Consultancy": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Legal-Management Consultancy": {
+          "singapore": {
+            "synergy": 5.223269268202881,
+            "is_outlier": true,
+            "synergy_cities_count": 119,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 5.280572378655406,
+            "is_outlier": true,
+            "synergy_cities_count": 119,
+            "total_cities": 706
+          }
+        }
+      },
+      "decomposition": {
+        "singapore": {
+          "domestic": {
+            "gnc": 585.0,
+            "share": 0.006829803628552082,
+            "firm_count": 2,
+            "leverage": 292.5,
+            "threshold_used": 3.097987157848217
+          },
+          "international": {
+            "gnc": 85069.0,
+            "share": 0.9931701963714479,
+            "firm_count": 173
+          },
+          "total": 85654.0
+        },
+        "london": {
+          "domestic": {
+            "gnc": 46810.0,
+            "share": 0.4120344697069723,
+            "firm_count": 28,
+            "leverage": 1671.7857142857142,
+            "threshold_used": 3.097987157848217
+          },
+          "international": {
+            "gnc": 66797.0,
+            "share": 0.5879655302930277,
+            "firm_count": 147
+          },
+          "total": 113607.0
+        }
+      }
+    },
+    "2018": {
+      "synergies": {
+        "Accountancy-Advertising": {
+          "singapore": {
+            "synergy": 2.2803362386492108,
+            "is_outlier": false,
+            "synergy_cities_count": 210,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 2.1669589522440504,
+            "is_outlier": false,
+            "synergy_cities_count": 210,
+            "total_cities": 707
+          }
+        },
+        "Accountancy-Financial": {
+          "singapore": {
+            "synergy": 1.2432940505956758,
+            "is_outlier": false,
+            "synergy_cities_count": 523,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 1.2597639813771906,
+            "is_outlier": false,
+            "synergy_cities_count": 523,
+            "total_cities": 707
+          }
+        },
+        "Accountancy-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Accountancy-Legal": {
+          "singapore": {
+            "synergy": 2.1587094628257444,
+            "is_outlier": false,
+            "synergy_cities_count": 208,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 2.1480478069047173,
+            "is_outlier": false,
+            "synergy_cities_count": 208,
+            "total_cities": 707
+          }
+        },
+        "Accountancy-Management Consultancy": {
+          "singapore": {
+            "synergy": 2.26799702064269,
+            "is_outlier": false,
+            "synergy_cities_count": 185,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 2.2088202640431516,
+            "is_outlier": false,
+            "synergy_cities_count": 185,
+            "total_cities": 707
+          }
+        },
+        "Advertising-Financial": {
+          "singapore": {
+            "synergy": 2.3910468198434733,
+            "is_outlier": false,
+            "synergy_cities_count": 184,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 2.4088098005529135,
+            "is_outlier": false,
+            "synergy_cities_count": 184,
+            "total_cities": 707
+          }
+        },
+        "Advertising-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Advertising-Legal": {
+          "singapore": {
+            "synergy": 4.26776507509527,
+            "is_outlier": true,
+            "synergy_cities_count": 126,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 4.438187998568753,
+            "is_outlier": true,
+            "synergy_cities_count": 126,
+            "total_cities": 707
+          }
+        },
+        "Advertising-Management Consultancy": {
+          "singapore": {
+            "synergy": 4.365917750624096,
+            "is_outlier": true,
+            "synergy_cities_count": 123,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 4.385696881965478,
+            "is_outlier": true,
+            "synergy_cities_count": 123,
+            "total_cities": 707
+          }
+        },
+        "Financial-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Financial-Legal": {
+          "singapore": {
+            "synergy": 2.445350612103057,
+            "is_outlier": false,
+            "synergy_cities_count": 203,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 2.487304361779556,
+            "is_outlier": false,
+            "synergy_cities_count": 203,
+            "total_cities": 707
+          }
+        },
+        "Financial-Management Consultancy": {
+          "singapore": {
+            "synergy": 2.409267617820025,
+            "is_outlier": false,
+            "synergy_cities_count": 183,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 2.499014661512962,
+            "is_outlier": false,
+            "synergy_cities_count": 183,
+            "total_cities": 707
+          }
+        },
+        "Insurance-Legal": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Insurance-Management Consultancy": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Legal-Management Consultancy": {
+          "singapore": {
+            "synergy": 4.500659882068374,
+            "is_outlier": true,
+            "synergy_cities_count": 130,
+            "total_cities": 707
+          },
+          "london": {
+            "synergy": 4.68856834196764,
+            "is_outlier": true,
+            "synergy_cities_count": 130,
+            "total_cities": 707
+          }
+        }
+      },
+      "decomposition": {
+        "singapore": {
+          "domestic": {
+            "gnc": 2737.0,
+            "share": 0.03767274128723228,
+            "firm_count": 4,
+            "leverage": 684.25,
+            "threshold_used": 2.965689231044795
+          },
+          "international": {
+            "gnc": 69915.0,
+            "share": 0.9623272587127677,
+            "firm_count": 171
+          },
+          "total": 72652.0
+        },
+        "london": {
+          "domestic": {
+            "gnc": 50625.0,
+            "share": 0.49370977179637215,
+            "firm_count": 30,
+            "leverage": 1687.5,
+            "threshold_used": 2.965689231044795
+          },
+          "international": {
+            "gnc": 51915.0,
+            "share": 0.5062902282036279,
+            "firm_count": 145
+          },
+          "total": 102540.0
+        }
+      }
+    },
+    "2020": {
+      "synergies": {
+        "Accountancy-Advertising": {
+          "singapore": {
+            "synergy": 2.0618136764598365,
+            "is_outlier": false,
+            "synergy_cities_count": 246,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 1.9927257340951212,
+            "is_outlier": false,
+            "synergy_cities_count": 246,
+            "total_cities": 706
+          }
+        },
+        "Accountancy-Financial": {
+          "singapore": {
+            "synergy": 1.3339685040666274,
+            "is_outlier": false,
+            "synergy_cities_count": 475,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 1.3510672488867048,
+            "is_outlier": false,
+            "synergy_cities_count": 475,
+            "total_cities": 706
+          }
+        },
+        "Accountancy-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Accountancy-Legal": {
+          "singapore": {
+            "synergy": 2.0566148437715834,
+            "is_outlier": false,
+            "synergy_cities_count": 224,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.0172343532203625,
+            "is_outlier": false,
+            "synergy_cities_count": 224,
+            "total_cities": 706
+          }
+        },
+        "Accountancy-Management Consultancy": {
+          "singapore": {
+            "synergy": 2.164607668381938,
+            "is_outlier": false,
+            "synergy_cities_count": 194,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.099810323328474,
+            "is_outlier": false,
+            "synergy_cities_count": 194,
+            "total_cities": 706
+          }
+        },
+        "Advertising-Financial": {
+          "singapore": {
+            "synergy": 2.068622709141907,
+            "is_outlier": false,
+            "synergy_cities_count": 217,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.158476350858252,
+            "is_outlier": false,
+            "synergy_cities_count": 217,
+            "total_cities": 706
+          }
+        },
+        "Advertising-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Advertising-Legal": {
+          "singapore": {
+            "synergy": 3.5827580718127443,
+            "is_outlier": true,
+            "synergy_cities_count": 156,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 3.705796323361271,
+            "is_outlier": true,
+            "synergy_cities_count": 156,
+            "total_cities": 706
+          }
+        },
+        "Advertising-Management Consultancy": {
+          "singapore": {
+            "synergy": 3.887964734784613,
+            "is_outlier": true,
+            "synergy_cities_count": 141,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 3.867051891149177,
+            "is_outlier": true,
+            "synergy_cities_count": 141,
+            "total_cities": 706
+          }
+        },
+        "Financial-Insurance": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Financial-Legal": {
+          "singapore": {
+            "synergy": 2.27564543971663,
+            "is_outlier": false,
+            "synergy_cities_count": 217,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.3599706546845773,
+            "is_outlier": false,
+            "synergy_cities_count": 217,
+            "total_cities": 706
+          }
+        },
+        "Financial-Management Consultancy": {
+          "singapore": {
+            "synergy": 2.284945195560014,
+            "is_outlier": false,
+            "synergy_cities_count": 186,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 2.4277337295822754,
+            "is_outlier": false,
+            "synergy_cities_count": 186,
+            "total_cities": 706
+          }
+        },
+        "Insurance-Legal": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Insurance-Management Consultancy": {
+          "singapore": {
+            "synergy": 0.0,
+            "is_outlier": false
+          },
+          "london": {
+            "synergy": 0.0,
+            "is_outlier": false
+          }
+        },
+        "Legal-Management Consultancy": {
+          "singapore": {
+            "synergy": 4.369565979295631,
+            "is_outlier": true,
+            "synergy_cities_count": 132,
+            "total_cities": 706
+          },
+          "london": {
+            "synergy": 4.5115507009546745,
+            "is_outlier": true,
+            "synergy_cities_count": 132,
+            "total_cities": 706
+          }
+        }
+      },
+      "decomposition": {
+        "singapore": {
+          "domestic": {
+            "gnc": 830.0,
+            "share": 0.011204103671706264,
+            "firm_count": 3,
+            "leverage": 276.6666666666667,
+            "threshold_used": 2.993454451039116
+          },
+          "international": {
+            "gnc": 73250.0,
+            "share": 0.9887958963282938,
+            "firm_count": 172
+          },
+          "total": 74080.0
+        },
+        "london": {
+          "domestic": {
+            "gnc": 51790.0,
+            "share": 0.4569275832862789,
+            "firm_count": 32,
+            "leverage": 1618.4375,
+            "threshold_used": 2.993454451039116
+          },
+          "international": {
+            "gnc": 61554.0,
+            "share": 0.5430724167137211,
+            "firm_count": 143
+          },
+          "total": 113344.0
+        }
+      }
+    }
+  },
+  "resilience": {
+    "singapore": {
+      "Accountancy": {
+        "resilience_index": 0.9452181381342205,
+        "recovery_speed": 0.0,
+        "crisis_mean": 21736.0,
+        "normal_mean": 22995.75
+      },
+      "Advertising": {
+        "resilience_index": 0.7936980717980875,
+        "recovery_speed": 0.0,
+        "crisis_mean": 5063.0,
+        "normal_mean": 6379.0
+      },
+      "Financial": {
+        "resilience_index": 1.2490845471559933,
+        "recovery_speed": 0.0,
+        "crisis_mean": 23025.0,
+        "normal_mean": 18433.5
+      },
+      "Insurance": {
+        "resilience_index": 0.0,
+        "recovery_speed": 0.0,
+        "crisis_mean": 0.0,
+        "normal_mean": 1004.25
+      },
+      "Legal": {
+        "resilience_index": 1.3366866785656337,
+        "recovery_speed": 0.0,
+        "crisis_mean": 4119.0,
+        "normal_mean": 3081.5
+      },
+      "Management Consultancy": {
+        "resilience_index": 1.1428571428571428,
+        "recovery_speed": 0.0,
+        "crisis_mean": 2798.0,
+        "normal_mean": 2448.25
+      },
+      "Total": {
+        "resilience_index": 1.0498085105629187,
+        "recovery_speed": 0.0,
+        "crisis_mean": 74080.0,
+        "normal_mean": 70565.25
+      }
+    },
+    "london": {
+      "Accountancy": {
+        "resilience_index": 1.1890023436041728,
+        "recovery_speed": 0.0,
+        "crisis_mean": 42997.0,
+        "normal_mean": 36162.25
+      },
+      "Advertising": {
+        "resilience_index": 0.8309217046580774,
+        "recovery_speed": 0.0,
+        "crisis_mean": 6288.0,
+        "normal_mean": 7567.5
+      },
+      "Financial": {
+        "resilience_index": 1.0850597545045289,
+        "recovery_speed": 0.0,
+        "crisis_mean": 25127.0,
+        "normal_mean": 23157.25
+      },
+      "Insurance": {
+        "resilience_index": 0.0,
+        "recovery_speed": 0.0,
+        "crisis_mean": 0.0,
+        "normal_mean": 1604.75
+      },
+      "Legal": {
+        "resilience_index": 1.1910942851992068,
+        "recovery_speed": 0.0,
+        "crisis_mean": 6607.0,
+        "normal_mean": 5547.0
+      },
+      "Management Consultancy": {
+        "resilience_index": 1.145541263188322,
+        "recovery_speed": 0.0,
+        "crisis_mean": 3963.0,
+        "normal_mean": 3459.5
+      },
+      "Total": {
+        "resilience_index": 1.1251001948060004,
+        "recovery_speed": 0.0,
+        "crisis_mean": 113344.0,
+        "normal_mean": 100741.25
+      }
+    }
+  },
+  "institutional_thickness": {
+    "SINGAPORE": {
+      "2000": 67.9337318425921,
+      "2012": 75.15803731527697,
+      "2016": 80.19202865108917,
+      "2018": 79.6783256129401,
+      "2020": 78.84789160710062
+    },
+    "LONDON": {
+      "2000": 89.73068799374278,
+      "2012": 93.04749296226719,
+      "2016": 93.38049296226718,
+      "2018": 93.38049296226718,
+      "2020": 93.71349296226718
+    }
+  },
+  "statistical_summary": {
+    "2000": {
+      "Accountancy": {
+        "singapore": {
+          "zscore": 1.4917857752520767,
+          "percentile": 93.11475409836065,
+          "value": 12359.0,
+          "rank": 22,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 4.471396509774743,
+          "percentile": 99.99999999999999,
+          "value": 23796.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 6632.898360655738,
+          "std": 3838.420860647157,
+          "median": 6131.0,
+          "q1": 3766.0,
+          "q3": 9002.0,
+          "iqr": 5236.0,
+          "n_cities": 305,
+          "skewness": 0.7902336968736079,
+          "kurtosis": 1.149416504654257
+        }
+      },
+      "Advertising": {
+        "singapore": {
+          "zscore": 2.020402462752339,
+          "percentile": 96.74418604651163,
+          "value": 5642.0,
+          "rank": 8,
+          "significance": "p < 0.05"
+        },
+        "london": {
+          "zscore": 3.502700999247945,
+          "percentile": 99.53488372093022,
+          "value": 8097.0,
+          "rank": 2,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 2295.786046511628,
+          "std": 1656.2115792167056,
+          "median": 2050.0,
+          "q1": 852.0,
+          "q3": 3419.0,
+          "iqr": 2567.0,
+          "n_cities": 215,
+          "skewness": 0.9913404090138045,
+          "kurtosis": 1.718021150916115
+        }
+      },
+      "Financial": {
+        "singapore": {
+          "zscore": 3.0463822517141645,
+          "percentile": 98.57651245551602,
+          "value": 13174.0,
+          "rank": 5,
+          "significance": "p < 0.01"
+        },
+        "london": {
+          "zscore": 4.117485252321528,
+          "percentile": 100.0,
+          "value": 16593.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 3449.836298932384,
+          "std": 3192.0366183842953,
+          "median": 2212.0,
+          "q1": 1156.0,
+          "q3": 4531.0,
+          "iqr": 3375.0,
+          "n_cities": 281,
+          "skewness": 1.6172545255497213,
+          "kurtosis": 2.4857954729899485
+        }
+      },
+      "Insurance": {
+        "singapore": {
+          "zscore": 2.81193739677755,
+          "percentile": 98.84615384615385,
+          "value": 4017.0,
+          "rank": 4,
+          "significance": "p < 0.01"
+        },
+        "london": {
+          "zscore": 5.184573210820497,
+          "percentile": 100.0,
+          "value": 6419.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 1170.2615384615385,
+          "std": 1012.3761876067346,
+          "median": 802.0,
+          "q1": 296.0,
+          "q3": 1660.0,
+          "iqr": 1364.0,
+          "n_cities": 260,
+          "skewness": 1.6885027366859375,
+          "kurtosis": 3.582146653275881
+        }
+      },
+      "Legal": {
+        "singapore": {
+          "zscore": 1.8712622613873564,
+          "percentile": 93.26923076923077,
+          "value": 1899.0,
+          "rank": 8,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 4.2794984416431845,
+          "percentile": 100.0,
+          "value": 3505.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 651.0961538461538,
+          "std": 666.8781131879657,
+          "median": 405.0,
+          "q1": 199.0,
+          "q3": 877.0,
+          "iqr": 678.0,
+          "n_cities": 104,
+          "skewness": 1.9928881740885176,
+          "kurtosis": 4.35524816443914
+        }
+      },
+      "Management Consultancy": {
+        "singapore": {
+          "zscore": 1.9333207330008375,
+          "percentile": 94.52054794520548,
+          "value": 2998.0,
+          "rank": 9,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 3.740454503277064,
+          "percentile": 100.0,
+          "value": 4754.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 1119.3835616438357,
+          "std": 971.7044907702598,
+          "median": 864.0,
+          "q1": 292.0,
+          "q3": 1529.75,
+          "iqr": 1237.75,
+          "n_cities": 146,
+          "skewness": 1.2158272505597003,
+          "kurtosis": 1.0863901587821618
+        }
+      },
+      "Total": {
+        "singapore": {
+          "zscore": 2.703702238613718,
+          "percentile": 98.40255591054313,
+          "value": 40891.0,
+          "rank": 6,
+          "significance": "p < 0.01"
+        },
+        "london": {
+          "zscore": 4.882217837153252,
+          "percentile": 100.0,
+          "value": 63354.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 13012.722044728434,
+          "std": 10311.149488697294,
+          "median": 10096.0,
+          "q1": 5888.0,
+          "q3": 16670.0,
+          "iqr": 10782.0,
+          "n_cities": 313,
+          "skewness": 1.5659597252078936,
+          "kurtosis": 3.221512046376902
+        }
+      }
+    },
+    "2012": {
+      "Accountancy": {
+        "singapore": {
+          "zscore": 1.7787420310261741,
+          "percentile": 95.3091684434968,
+          "value": 22952.0,
+          "rank": 23,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 4.1206082943638505,
+          "percentile": 100.0,
+          "value": 38840.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 10884.422174840085,
+          "std": 6784.332755772352,
+          "median": 10286.0,
+          "q1": 5326.0,
+          "q3": 15641.0,
+          "iqr": 10315.0,
+          "n_cities": 469,
+          "skewness": 0.5077191317686811,
+          "kurtosis": -0.07383747384866135
+        }
+      },
+      "Advertising": {
+        "singapore": {
+          "zscore": 2.0833822045366017,
+          "percentile": 98.65470852017937,
+          "value": 8576.0,
+          "rank": 4,
+          "significance": "p < 0.05"
+        },
+        "london": {
+          "zscore": 2.725152033220954,
+          "percentile": 99.55156950672647,
+          "value": 10183.0,
+          "rank": 2,
+          "significance": "p < 0.01"
+        },
+        "statistics": {
+          "mean": 3359.183856502242,
+          "std": 2504.0130092971167,
+          "median": 2794.0,
+          "q1": 1129.0,
+          "q3": 5174.5,
+          "iqr": 4045.5,
+          "n_cities": 223,
+          "skewness": 0.7393538233587275,
+          "kurtosis": 0.0980601480645702
+        }
+      },
+      "Financial": {
+        "singapore": {
+          "zscore": 4.077806326682119,
+          "percentile": 99.37888198757764,
+          "value": 22518.0,
+          "rank": 4,
+          "significance": "p < 0.001"
+        },
+        "london": {
+          "zscore": 5.787702485782062,
+          "percentile": 100.0,
+          "value": 30262.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 4049.9006211180126,
+          "std": 4528.929993079989,
+          "median": 2415.0,
+          "q1": 1335.5,
+          "q3": 4613.5,
+          "iqr": 3278.0,
+          "n_cities": 483,
+          "skewness": 2.4040568837379914,
+          "kurtosis": 7.017330289579563
+        }
+      },
+      "Insurance": {
+        "singapore": {
+          "zscore": 0,
+          "percentile": 50,
+          "value": 0.0,
+          "rank": 1,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 0,
+          "percentile": 50,
+          "value": 0.0,
+          "rank": 1,
+          "significance": "not significant"
+        },
+        "statistics": {
+          "mean": 0.0,
+          "std": 0,
+          "median": 0.0,
+          "q1": 0,
+          "q3": 0,
+          "iqr": 0,
+          "n_cities": 0,
+          "skewness": 0,
+          "kurtosis": 0
+        }
+      },
+      "Legal": {
+        "singapore": {
+          "zscore": 1.6780424650248997,
+          "percentile": 94.81481481481481,
+          "value": 2798.0,
+          "rank": 8,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 4.434783584846173,
+          "percentile": 100.0,
+          "value": 5652.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 1060.7555555555555,
+          "std": 1035.2803821437656,
+          "median": 672.0,
+          "q1": 426.0,
+          "q3": 1452.5,
+          "iqr": 1026.5,
+          "n_cities": 135,
+          "skewness": 1.9035875414070595,
+          "kurtosis": 4.098676968921938
+        }
+      },
+      "Management Consultancy": {
+        "singapore": {
+          "zscore": 0.6639349949748584,
+          "percentile": 74.68354430379748,
+          "value": 1954.0,
+          "rank": 41,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 2.751319423315254,
+          "percentile": 99.36708860759494,
+          "value": 3765.0,
+          "rank": 2,
+          "significance": "p < 0.01"
+        },
+        "statistics": {
+          "mean": 1377.9746835443038,
+          "std": 867.5929433084165,
+          "median": 1104.0,
+          "q1": 640.0,
+          "q3": 1964.5,
+          "iqr": 1324.5,
+          "n_cities": 158,
+          "skewness": 0.9351984571829645,
+          "kurtosis": 0.17323377477919788
+        }
+      },
+      "Total": {
+        "singapore": {
+          "zscore": 3.2109370764421676,
+          "percentile": 99.2248062015504,
+          "value": 83064.0,
+          "rank": 5,
+          "significance": "p < 0.01"
+        },
+        "london": {
+          "zscore": 5.284734652689807,
+          "percentile": 100.0,
+          "value": 123464.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 20511.19379844961,
+          "std": 19481.16849143027,
+          "median": 15060.5,
+          "q1": 6361.75,
+          "q3": 28137.0,
+          "iqr": 21775.25,
+          "n_cities": 516,
+          "skewness": 1.6817198865124245,
+          "kurtosis": 3.4291920207411684
+        }
+      }
+    },
+    "2016": {
+      "Accountancy": {
+        "singapore": {
+          "zscore": 2.78403148514203,
+          "percentile": 99.4475138121547,
+          "value": 34067.0,
+          "rank": 4,
+          "significance": "p < 0.01"
+        },
+        "london": {
+          "zscore": 4.106395998353577,
+          "percentile": 100.0,
+          "value": 44593.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 11906.154696132597,
+          "std": 7959.983722216004,
+          "median": 11370.0,
+          "q1": 5200.0,
+          "q3": 16822.5,
+          "iqr": 11622.5,
+          "n_cities": 543,
+          "skewness": 0.6809174906608642,
+          "kurtosis": 0.22638163941981349
+        }
+      },
+      "Advertising": {
+        "singapore": {
+          "zscore": 2.3284788502837213,
+          "percentile": 98.72881355932203,
+          "value": 6482.0,
+          "rank": 4,
+          "significance": "p < 0.05"
+        },
+        "london": {
+          "zscore": 3.008451600893404,
+          "percentile": 99.57627118644068,
+          "value": 7670.0,
+          "rank": 2,
+          "significance": "p < 0.01"
+        },
+        "statistics": {
+          "mean": 2413.8474576271187,
+          "std": 1747.1288355817292,
+          "median": 2132.0,
+          "q1": 758.0,
+          "q3": 3597.5,
+          "iqr": 2839.5,
+          "n_cities": 236,
+          "skewness": 0.8081208528512911,
+          "kurtosis": 0.47099439178227387
+        }
+      },
+      "Financial": {
+        "singapore": {
+          "zscore": 5.07327455098584,
+          "percentile": 99.49066213921901,
+          "value": 18631.0,
+          "rank": 4,
+          "significance": "p < 0.001"
+        },
+        "london": {
+          "zscore": 6.121372938002391,
+          "percentile": 99.830220713073,
+          "value": 21927.0,
+          "rank": 2,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 2676.855687606112,
+          "std": 3144.7429371417866,
+          "median": 1624.0,
+          "q1": 866.0,
+          "q3": 2916.0,
+          "iqr": 2050.0,
+          "n_cities": 589,
+          "skewness": 2.8791088771203213,
+          "kurtosis": 10.677492942540724
+        }
+      },
+      "Insurance": {
+        "singapore": {
+          "zscore": 0,
+          "percentile": 50,
+          "value": 0.0,
+          "rank": 1,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 0,
+          "percentile": 50,
+          "value": 0.0,
+          "rank": 1,
+          "significance": "not significant"
+        },
+        "statistics": {
+          "mean": 0.0,
+          "std": 0,
+          "median": 0.0,
+          "q1": 0,
+          "q3": 0,
+          "iqr": 0,
+          "n_cities": 0,
+          "skewness": 0,
+          "kurtosis": 0
+        }
+      },
+      "Legal": {
+        "singapore": {
+          "zscore": 2.1371372045806543,
+          "percentile": 95.33678756476684,
+          "value": 3523.0,
+          "rank": 10,
+          "significance": "p < 0.05"
+        },
+        "london": {
+          "zscore": 4.972227434732979,
+          "percentile": 99.99999999999999,
+          "value": 6793.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 1058.020725388601,
+          "std": 1153.4024438524868,
+          "median": 484.0,
+          "q1": 394.0,
+          "q3": 1322.0,
+          "iqr": 928.0,
+          "n_cities": 193,
+          "skewness": 2.2416693014677267,
+          "kurtosis": 5.823757259351947
+        }
+      },
+      "Management Consultancy": {
+        "singapore": {
+          "zscore": 1.5459135376189765,
+          "percentile": 94.11764705882354,
+          "value": 2046.0,
+          "rank": 12,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 1.732873278442329,
+          "percentile": 95.88235294117648,
+          "value": 2158.0,
+          "rank": 8,
+          "significance": "not significant"
+        },
+        "statistics": {
+          "mean": 1119.9058823529413,
+          "std": 599.0594526220615,
+          "median": 1032.0,
+          "q1": 612.0,
+          "q3": 1608.0,
+          "iqr": 996.0,
+          "n_cities": 170,
+          "skewness": 0.49985911339814,
+          "kurtosis": -0.905274972287784
+        }
+      },
+      "Total": {
+        "singapore": {
+          "zscore": 4.0379368276819,
+          "percentile": 99.70760233918128,
+          "value": 85654.0,
+          "rank": 3,
+          "significance": "p < 0.001"
+        },
+        "london": {
+          "zscore": 5.670989386285574,
+          "percentile": 100.0,
+          "value": 113607.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 16536.538011695906,
+          "std": 17117.02409866156,
+          "median": 11793.5,
+          "q1": 3250.0,
+          "q3": 22851.25,
+          "iqr": 19601.25,
+          "n_cities": 684,
+          "skewness": 1.7865964325840022,
+          "kurtosis": 4.126671888771488
+        }
+      }
+    },
+    "2018": {
+      "Accountancy": {
+        "singapore": {
+          "zscore": 1.9344207039235528,
+          "percentile": 97.27427597955706,
+          "value": 22605.0,
+          "rank": 17,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 4.174825904046278,
+          "percentile": 100.0,
+          "value": 37420.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 9813.366269165246,
+          "std": 6612.643105447382,
+          "median": 9110.0,
+          "q1": 3926.0,
+          "q3": 14916.5,
+          "iqr": 10990.5,
+          "n_cities": 587,
+          "skewness": 0.49716289070584635,
+          "kurtosis": -0.42336877548241647
+        }
+      },
+      "Advertising": {
+        "singapore": {
+          "zscore": 2.833177558838777,
+          "percentile": 99.52830188679245,
+          "value": 4816.0,
+          "rank": 2,
+          "significance": "p < 0.01"
+        },
+        "london": {
+          "zscore": 2.3838116989500118,
+          "percentile": 98.58490566037736,
+          "value": 4320.0,
+          "rank": 4,
+          "significance": "p < 0.05"
+        },
+        "statistics": {
+          "mean": 1688.801886792453,
+          "std": 1103.7776659819651,
+          "median": 1508.0,
+          "q1": 514.0,
+          "q3": 2590.0,
+          "iqr": 2076.0,
+          "n_cities": 212,
+          "skewness": 0.658516449328106,
+          "kurtosis": 0.3500354664367853
+        }
+      },
+      "Financial": {
+        "singapore": {
+          "zscore": 4.409272747909417,
+          "percentile": 99.19871794871796,
+          "value": 19411.0,
+          "rank": 6,
+          "significance": "p < 0.001"
+        },
+        "london": {
+          "zscore": 5.62730409795359,
+          "percentile": 99.83974358974359,
+          "value": 23847.0,
+          "rank": 2,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 3352.6826923076924,
+          "std": 3641.9423850126063,
+          "median": 2032.0,
+          "q1": 1060.0,
+          "q3": 4185.25,
+          "iqr": 3125.25,
+          "n_cities": 624,
+          "skewness": 2.3556003483402725,
+          "kurtosis": 7.368994387831464
+        }
+      },
+      "Insurance": {
+        "singapore": {
+          "zscore": 0,
+          "percentile": 50,
+          "value": 0.0,
+          "rank": 1,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 0,
+          "percentile": 50,
+          "value": 0.0,
+          "rank": 1,
+          "significance": "not significant"
+        },
+        "statistics": {
+          "mean": 0.0,
+          "std": 0,
+          "median": 0.0,
+          "q1": 0,
+          "q3": 0,
+          "iqr": 0,
+          "n_cities": 0,
+          "skewness": 0,
+          "kurtosis": 0
+        }
+      },
+      "Legal": {
+        "singapore": {
+          "zscore": 3.0673387581990137,
+          "percentile": 98.58490566037736,
+          "value": 4106.0,
+          "rank": 4,
+          "significance": "p < 0.01"
+        },
+        "london": {
+          "zscore": 5.2531467152232105,
+          "percentile": 100.0,
+          "value": 6238.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 1114.1698113207547,
+          "std": 975.3830354348917,
+          "median": 597.0,
+          "q1": 590.0,
+          "q3": 1358.0,
+          "iqr": 768.0,
+          "n_cities": 212,
+          "skewness": 2.039482346854691,
+          "kurtosis": 5.000348518161246
+        }
+      },
+      "Management Consultancy": {
+        "singapore": {
+          "zscore": 1.3211711336155623,
+          "percentile": 90.90909090909092,
+          "value": 2795.0,
+          "rank": 18,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 1.7592975404479516,
+          "percentile": 95.18716577540107,
+          "value": 3161.0,
+          "rank": 10,
+          "significance": "not significant"
+        },
+        "statistics": {
+          "mean": 1691.326203208556,
+          "std": 835.3753489686777,
+          "median": 1496.0,
+          "q1": 1246.0,
+          "q3": 2370.0,
+          "iqr": 1124.0,
+          "n_cities": 187,
+          "skewness": 0.36087445234571375,
+          "kurtosis": -0.5723729513813502
+        }
+      },
+      "Total": {
+        "singapore": {
+          "zscore": 3.7820660599648894,
+          "percentile": 99.42446043165467,
+          "value": 72652.0,
+          "rank": 5,
+          "significance": "p < 0.001"
+        },
+        "london": {
+          "zscore": 5.774393262073593,
+          "percentile": 100.0,
+          "value": 102540.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 15915.139568345323,
+          "std": 15001.551938038172,
+          "median": 11750.0,
+          "q1": 4611.5,
+          "q3": 22191.0,
+          "iqr": 17579.5,
+          "n_cities": 695,
+          "skewness": 1.6719221961429576,
+          "kurtosis": 3.7009135930516535
+        }
+      }
+    },
+    "2020": {
+      "Accountancy": {
+        "singapore": {
+          "zscore": 1.3958881598172501,
+          "percentile": 94.3014705882353,
+          "value": 21736.0,
+          "rank": 32,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 4.408865122880999,
+          "percentile": 100.0,
+          "value": 42997.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 11885.948529411764,
+          "std": 7056.476123329111,
+          "median": 11866.0,
+          "q1": 5808.0,
+          "q3": 17546.5,
+          "iqr": 11738.5,
+          "n_cities": 544,
+          "skewness": 0.14566817343633306,
+          "kurtosis": -0.418312545379401
+        }
+      },
+      "Advertising": {
+        "singapore": {
+          "zscore": 2.0392511250907046,
+          "percentile": 96.82539682539682,
+          "value": 5063.0,
+          "rank": 9,
+          "significance": "p < 0.05"
+        },
+        "london": {
+          "zscore": 2.8645244245952926,
+          "percentile": 99.6031746031746,
+          "value": 6288.0,
+          "rank": 2,
+          "significance": "p < 0.01"
+        },
+        "statistics": {
+          "mean": 2036.0238095238096,
+          "std": 1484.356758828098,
+          "median": 1704.0,
+          "q1": 770.0,
+          "q3": 3041.5,
+          "iqr": 2271.5,
+          "n_cities": 252,
+          "skewness": 0.8438967635459276,
+          "kurtosis": 0.12532430117886895
+        }
+      },
+      "Financial": {
+        "singapore": {
+          "zscore": 5.029849743657183,
+          "percentile": 99.34426229508196,
+          "value": 23025.0,
+          "rank": 5,
+          "significance": "p < 0.001"
+        },
+        "london": {
+          "zscore": 5.578012416250597,
+          "percentile": 99.83606557377048,
+          "value": 25127.0,
+          "rank": 2,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 3737.3967213114756,
+          "std": 3834.628122442598,
+          "median": 2594.0,
+          "q1": 1160.75,
+          "q3": 4921.25,
+          "iqr": 3760.5,
+          "n_cities": 610,
+          "skewness": 2.2635121648639824,
+          "kurtosis": 7.133503691862794
+        }
+      },
+      "Insurance": {
+        "singapore": {
+          "zscore": 0,
+          "percentile": 50,
+          "value": 0.0,
+          "rank": 1,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 0,
+          "percentile": 50,
+          "value": 0.0,
+          "rank": 1,
+          "significance": "not significant"
+        },
+        "statistics": {
+          "mean": 0.0,
+          "std": 0,
+          "median": 0.0,
+          "q1": 0,
+          "q3": 0,
+          "iqr": 0,
+          "n_cities": 0,
+          "skewness": 0,
+          "kurtosis": 0
+        }
+      },
+      "Legal": {
+        "singapore": {
+          "zscore": 3.0146800900691977,
+          "percentile": 98.23788546255506,
+          "value": 4119.0,
+          "rank": 5,
+          "significance": "p < 0.01"
+        },
+        "london": {
+          "zscore": 5.4817897127167985,
+          "percentile": 100.0,
+          "value": 6607.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 1078.7929515418502,
+          "std": 1008.4675513242821,
+          "median": 626.0,
+          "q1": 473.5,
+          "q3": 1354.0,
+          "iqr": 880.5,
+          "n_cities": 227,
+          "skewness": 2.187359295400654,
+          "kurtosis": 5.966867071820612
+        }
+      },
+      "Management Consultancy": {
+        "singapore": {
+          "zscore": 1.0408077773713929,
+          "percentile": 86.22448979591837,
+          "value": 2798.0,
+          "rank": 33,
+          "significance": "not significant"
+        },
+        "london": {
+          "zscore": 2.317207918541268,
+          "percentile": 97.9591836734694,
+          "value": 3963.0,
+          "rank": 5,
+          "significance": "p < 0.05"
+        },
+        "statistics": {
+          "mean": 1848.030612244898,
+          "std": 912.7231832897066,
+          "median": 1785.5,
+          "q1": 1392.0,
+          "q3": 2464.5,
+          "iqr": 1072.5,
+          "n_cities": 196,
+          "skewness": 0.41064671636932465,
+          "kurtosis": 0.024176264242989465
+        }
+      },
+      "Total": {
+        "singapore": {
+          "zscore": 3.5471715075732275,
+          "percentile": 99.56395348837209,
+          "value": 74080.0,
+          "rank": 4,
+          "significance": "p < 0.001"
+        },
+        "london": {
+          "zscore": 6.00527194135325,
+          "percentile": 100.0,
+          "value": 113344.0,
+          "rank": 1,
+          "significance": "p < 0.001"
+        },
+        "statistics": {
+          "mean": 17419.93023255814,
+          "std": 15973.309902403184,
+          "median": 14221.0,
+          "q1": 5023.0,
+          "q3": 25066.0,
+          "iqr": 20043.0,
+          "n_cities": 688,
+          "skewness": 1.509479297163349,
+          "kurtosis": 3.3926061663304994
+        }
+      }
+    }
+  },
+  "max_gnc_values": {
+    "2000": {
+      "Total": 63354.0,
+      "Accountancy": 23796.0,
+      "Advertising": 10184.0,
+      "Financial": 16593.0,
+      "Insurance": 6419.0,
+      "Legal": 3505.0,
+      "Management Consultancy": 4754.0
+    },
+    "2012": {
+      "Total": 123464.0,
+      "Accountancy": 38840.0,
+      "Advertising": 13436.0,
+      "Financial": 30262.0,
+      "Insurance": 0.0,
+      "Legal": 5652.0,
+      "Management Consultancy": 4485.0
+    },
+    "2016": {
+      "Total": 113607.0,
+      "Accountancy": 44593.0,
+      "Advertising": 9767.0,
+      "Financial": 22804.0,
+      "Insurance": 0.0,
+      "Legal": 6793.0,
+      "Management Consultancy": 2747.0
+    },
+    "2018": {
+      "Total": 102540.0,
+      "Accountancy": 37420.0,
+      "Advertising": 6415.0,
+      "Financial": 24137.0,
+      "Insurance": 0.0,
+      "Legal": 6238.0,
+      "Management Consultancy": 3883.0
+    },
+    "2020": {
+      "Total": 113344.0,
+      "Accountancy": 42997.0,
+      "Advertising": 7600.0,
+      "Financial": 25304.0,
+      "Insurance": 0.0,
+      "Legal": 6607.0,
+      "Management Consultancy": 4721.0
+    }
+  },
+  "sector_classification": {
+    "Accountancy": [
+      "BBDO Worldwide",
+      "PWC",
+      "Horwath",
+      "Strategy&, part of the PwC network",
+      "KPMG",
+      "HLB",
+      "RSM",
+      "Moores Rowland",
+      "PKF",
+      "BDO",
+      "Nexia International",
+      "Deloitte",
+      "IGAF",
+      "PwC",
+      "Crowe Horwath  International",
+      "PKF International",
+      "RSM International",
+      "Moore Stephens International",
+      "Moore Global",
+      "Young & Rubicam Group",
+      "Fiducial",
+      "Grant Thornton",
+      "Summit & Baker",
+      "MSI",
+      "Crowe Horwath International",
+      "Ernst&Young",
+      "BBDO",
+      "BDO ",
+      "Deloitte Consulting LLP",
+      "AGN International",
+      "Grant Thornton International",
+      "Crowe",
+      "Nexia",
+      "Crowe Horwath",
+      "Baker Tilly International",
+      "Impiric",
+      "Ernst & Young",
+      "AGN",
+      "Moore Stephens",
+      "Arthur Andersen",
+      "HLB International",
+      "Mazars",
+      "KPMG LLP (Advisory)",
+      "MGI Worldwide",
+      "Deloitte Digital",
+      "MSI Global Alliance",
+      "PwC Digital Services"
+    ],
+    "Advertising": [
+      "Publicis Healthcare Communications Group",
+      "Draft Worldwide",
+      "D'Arcy",
+      "J Walter Thompson",
+      "Publicis",
+      "Asatsu DK",
+      "JWT",
+      "DDB Worldwide Communications Group",
+      "Ogilvy & Mather ",
+      "TMP",
+      "Grey Group",
+      "CMG",
+      "DDB Worldwide",
+      "Ogilvy",
+      "FCB (Foote, Cone & Belding)",
+      "Densu Y & R",
+      "Y&R",
+      "O&M",
+      "Publicis Worldwide",
+      "Euro RSCG",
+      "Leo Burnett Worldwide",
+      "Grey",
+      "Publicis Sapient",
+      "DraftFCB",
+      "FCB",
+      "Ogilvy & Mather",
+      "McCann Erickson",
+      "Hakuhodo",
+      "TBWA Worldwide",
+      "McCann Worldgroup",
+      "McCann Erickson Worldwide",
+      "Saatchi & Saatchi"
+    ],
+    "Financial": [
+      "Morgan Lewis",
+      "Sanwa",
+      "Andersen Consulting",
+      "Svenska Handelsbanken",
+      "BTM",
+      "Industrial and Commercial Bank of China",
+      "Leading Edge Alliance",
+      "Omnicom Precision Marketing Group",
+      "Discover Bank",
+      "Bank of China",
+      "Scotiabank",
+      "HDFC Bank",
+      "Postal Savings Bank",
+      "Morgan Lewis & Bockius",
+      "Jabian Consulting",
+      "Sumitomo Mitsui Financial Group",
+      "The Boston Consulting Group, Inc.",
+      "Standard Chartered",
+      "China CITIC Bank",
+      "Bank of Beijing",
+      "Industrial Bank",
+      "Rabobank",
+      "China Merchants Bank",
+      "Citibank",
+      "Deutsche Bank",
+      "Danske Bank",
+      "Shanghai Pudong Development Bank",
+      "JP Bank",
+      "UOB (United Overseas Bank)",
+      "JP Morgan",
+      "RBC",
+      "TD Bank Financial Group",
+      "Mizuho Financial Group",
+      "LEK Consulting",
+      "CITI",
+      "Wilmer Cutler Pickering Hale and Dorr",
+      "MUFG",
+      "Bank of Communication",
+      "Commonwealth Bank of Australia",
+      "Maybank",
+      "Censeo Consulting Group",
+      "ING",
+      "Dresdner",
+      "ABN AMRO",
+      "L.E.K.  Consulting",
+      "Advantage Marketing Partners",
+      "Goldman Sachs",
+      "Lloyds Bank",
+      "U.S  Bank",
+      "First Abu Dhabi Bank",
+      "Morgan Stanley",
+      "DZ Bank",
+      "LLoyds TSB",
+      "Experian Marketing Services",
+      "HSBC",
+      "ABN Amro",
+      "Sumitomo",
+      "NatWest - National Westminster Bank",
+      "Ping An Bank",
+      "Insight Sourcing Group",
+      "China Construction Bank",
+      "UBS",
+      "Standard Bank",
+      "Hang Seng Bank",
+      "Eagle Hill Consulting",
+      "L.E.K. Consulting",
+      "OCBC Bank",
+      "Shinewing International",
+      "Sberbank",
+      "National Australia Bank",
+      "Boston Consulting Group",
+      "Agricultural Bank of China",
+      "Lamar Advertising",
+      "Morgan, Lewis & Bockius",
+      "Royal Bank of Canada",
+      "China Everbright Bank",
+      "CSFB",
+      "State Bank of India",
+      "JP Morgan Chase",
+      "Bank of Montreal",
+      "Hua Xia Bank",
+      "Deutsche",
+      "BHV",
+      "NAB (National Australian Bank)",
+      "J.P. Morgan",
+      "Wells Fargo",
+      "Sakura",
+      "Fuji",
+      "Shinhan Bank",
+      "BNP Paribas",
+      "The Boston Consulting Group, Inc. ",
+      "OC&C Strategy Consulting",
+      "TD Bank Group",
+      "ShineWing International",
+      "BLG",
+      "RRD Marketing Solutions",
+      "Freshfields Bruckhaus Deringer LLP",
+      "Barclays",
+      "Credit Suisse",
+      "Santander",
+      "Commerzbank",
+      "DKB",
+      "Lloyds",
+      "Industrial Bank Co. ",
+      "Standard Chartered Bank",
+      "Chase",
+      "China Minsheng Bank",
+      "Clarkston Consulting",
+      "Freshfields Bruckhaus Deringer",
+      "West LB",
+      "U.S. Bank",
+      "Bank of Communications",
+      "Citi",
+      "Bank of America",
+      "Nationwide Building Society",
+      "Nomura"
+    ],
+    "Insurance": [
+      "CGNU",
+      "Fortis",
+      "Liberty",
+      "Winterthur",
+      "Royal & Sun",
+      "Reliance",
+      "Prudential",
+      "Allianz",
+      "Skandia",
+      "Chubb"
+    ],
+    "Legal": [
+      "Skadden",
+      "Norton Rose Fulbright",
+      "Cleary Gottlieb",
+      "Linklaters",
+      "DLA Piper",
+      " Dentons",
+      "Booz Allen Hamilton",
+      "Allen & Overy",
+      "Cleary Gottlieb Steen & Hamilton LLP",
+      "Latham & Watkins LLP",
+      "Coudert",
+      "Weil Gotshal",
+      "Allen & Overy LLP",
+      "Hogan Lovells",
+      "Sidley Austin LLP",
+      "Sidley & Austin",
+      "Weil, Gotshal & Manges",
+      "Skadden, Arps, Slate, Meagher & Flom LLP & Affiliates",
+      "Lovells",
+      "Simpson Thacher & Bartlett",
+      "Gibson Dunn",
+      "Morrison & Foerster",
+      "Skadden, Arps, Slate, Meagher & Flom",
+      "Latham & Watkins",
+      "FBD",
+      "Simpson Thacher & Barltlett",
+      "Kirkland & Ellis",
+      "Weil, Gotshal & Manges LLP",
+      "Sidley Austin",
+      "White & Case LLP",
+      "Cameron McKenna",
+      "Clifford Chance",
+      "White & Case",
+      "Dentons",
+      "Baker McKenzie",
+      "Skadden, Arps, Slate, Meagher & Flom LLP",
+      "Jones Day",
+      "Clifford Chance LLP",
+      "Dorsey & Whitney",
+      "Norton Rose",
+      "Baker & McKenzie"
+    ],
+    "Management Consultancy": [
+      "Bain & Company",
+      "Oliver Wyman",
+      "Roland Berger",
+      "Gemini",
+      "A. T.  Kearney",
+      "Towers Perrin",
+      "Hewitt",
+      "Accenture",
+      "Booz & Company",
+      "Logica",
+      "Roland Berger Strategy Consultants",
+      "McKinsey",
+      "Bain",
+      "CSC",
+      "Sema",
+      "BoozeA&M",
+      "A.T. Kearney",
+      "Accenture Interactive",
+      "Mercer",
+      "McKinsey & Company",
+      "Watson Wyatt",
+      "Compass"
+    ]
+  },
+  "citations": {
+    "network_model": "Taylor, P.J. (2001). Specification of the world city network. Geographical Analysis, 33(2), 181-194.",
+    "service_scale": "Taylor, P.J. (2001), Table 1: Service values scale 0-5",
+    "regions": "Taylor et al. (2011). Global Urban Analysis: A Survey of Cities in Globalization. Earthscan.",
+    "crisis_periods": "Reinhart, C. & Rogoff, K. (2009). This Time is Different; IMF (2020). World Economic Outlook.",
+    "global_city_theory": "Sassen, S. (2001). The Global City: New York, London, Tokyo. Princeton University Press.",
+    "network_society": "Castells, M. (2000). The Rise of the Network Society. Blackwell.",
+    "statistical_thresholds": "Cohen, J. (1988). Statistical Power Analysis for the Behavioral Sciences.",
+    "institutional_thickness": "Amin, A. & Thrift, N. (1995). Institutional issues for the European regions. Economy and Society, 24(1).",
+    "world_regions": "United Nations Statistics Division (2020). Standard country or area codes for statistical use (M49).",
+    "firm_classification": "Beaverstock, J.V. et al. (2000). Globalization and world cities: measurement methodologies.",
+    "aps_sectors": "Beaverstock, J.V., Smith, R.G. and Taylor, P.J. (1999). A roster of world cities. Cities, 16(6), 445-458."
+  },
+  "methodological_notes": {
+    "domestic_threshold": "Calculated as mean + 1.5*std (top 7% statistical significance)",
+    "institutional_weights": "Equal weights to avoid bias in absence of empirical justification",
+    "synergy_calculation": "Actual values reported without artificial capping",
+    "normalization": "Following GaWC convention where max GNC (typically London) = 100%",
+    "crisis_periods": {
+      "2008": "Global Financial Crisis (Reinhart & Rogoff, 2009)",
+      "2009": "GFC continued effects (Reinhart & Rogoff, 2009)",
+      "2020": "COVID-19 pandemic (IMF World Economic Outlook, 2020)"
+    },
+    "ssi_interpretation": {
+      "strong_specialization": 1.5,
+      "moderate_specialization": 1.2,
+      "parity_range": [
+        0.83,
+        1.2
+      ],
+      "moderate_underspecialization": 0.83,
+      "strong_underspecialization": 0.67
+    },
+    "service_value_scale": {
+      "0": "No presence",
+      "1": "Minimal presence (no partners/small office)",
+      "2": "Normal presence (typical office)",
+      "3": "Large presence (large office)",
+      "4": "Regional HQ functions",
+      "5": "Global HQ"
+    },
+    "aps_sectors": "All six APS sectors analyzed per Beaverstock et al. (1999)"
+  }
+}
